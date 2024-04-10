@@ -1,0 +1,201 @@
+,Fuel Type Code,Station Name,City,State,Status Code,Latitude,Longitude,ID,Country
+7,Fuel,Clean Energy - Greenpoint - National Grid,Brooklyn,NY,E,"40,718037","-73,932309",108,US
+8,Fuel,Canarsie - National Grid,Brooklyn,NY,E,"40,64554","-73,918344",112,US
+11,Fuel,Con Edison - Van Nest Service Center,Bronx,NY,E,"40,8441883","-73,8615724",129,US
+13,Fuel,Con Edison - College Point Service Center,Queens,NY,E,"40,769623","-73,843069",132,US
+1500,Fuel,Bronx Zoo,Bronx,NY,E,"40,850018","-73,878128",32837,US
+1501,Fuel,Trillium - MTA New York City Transit - West Farms/Coliseum Depot,Bronx,NY,E,"40,838672","-73,877566",32838,US
+1502,Fuel,Trillium - MTA - Spring Creek,Brooklyn,NY,E,"40,661038","-73,864438",32839,US
+1503,Fuel,Trillium - MTA New York City Transit - Jackie Gleason Bus Depot,Brooklyn,NY,E,"40,6529","-74,0023",32840,US
+1958,Fuel,Manhattan Beer,Bronx,NY,E,"40,808151","-73,902589",35060,US
+2977,ELEC,James J Peters VA Medical Center,Bronx,NY,E,"40,867403","-73,906405",41240,US
+3421,ELEC,Bay Ridge Nissan,Brooklyn,NY,E,"40,636324","-74,019228",44327,US
+3422,ELEC,Bay Ridge Nissan,Brooklyn,NY,E,"40,636324","-74,019228",44328,US
+3423,ELEC,Kings Nissan,Brooklyn,NY,E,"40,589167","-73,960707",44329,US
+3424,ELEC,Kings Nissan,Brooklyn,NY,E,"40,589167","-73,960707",44330,US
+6664,Fuel,JFK Airport Travel Plaza - National Grid - Clean Energy,Queens,NY,E,"40,66297896114984","-73,7921584550171",61345,US
+7522,ELEC,Dana Ford Lincoln,Staten Island,NY,E,"40,587162","-74,194747",64140,US
+7778,ELEC,Bay Ridge Municipal Parking Garage,Brooklyn,NY,E,"40,62215","-74,02565",65288,US
+7779,ELEC,Court Square Municipal Parking Garage,Queens,NY,E,"40,745358","-73,942642",65290,US
+7780,ELEC,East 149th Street Municipal Parking Garage,Bronx,NY,E,"40,817326","-73,920914",65291,US
+7781,ELEC,Saint George Courthouse,Staten Island,NY,E,"40,63947","-74,076912",65296,US
+10011,Fuel,Clean Energy - Bronx NY,Bronx,NY,E,"40,805695","-73,880803",77158,US
+10307,Fuel,Conoco,Brooklyn,NY,E,"40,653468","-73,886256",79194,US
+10316,Fuel,Trillium,Bronx,NY,E,"40,82289","-73,841375",79256,US
+14366,ELEC,Parking Garage,Bronx,NY,E,"40,863131","-73,900529",94830,US
+14367,ELEC,Parking Garage,Brooklyn,NY,E,"40,737171","-73,949257",94831,US
+14368,ELEC,Brooklyn Navy Yard,Brooklyn,NY,E,"40,698235","-73,975114",94832,US
+14379,ELEC,Delancey & Essex Municipal Parking Garage,Manhattan,NY,E,"40,719051","-73,988181",94848,US
+14389,ELEC,Spectrum,Staten Island,NY,E,"40,630898","-74,168358",94861,US
+15102,ELEC,Nissan of Staten Island,Staten Island,NY,E,"40,581432","-74,097694",99500,US
+15699,ELEC,North 12 Parking (at the William Vale) - Tesla Supercharger,Brooklyn,NY,E,"40,721853","-73,956658",102327,US
+15712,ELEC,JFK Airport Travel Plaza - Tesla Supercharger,Queens,NY,E,"40,66179","-73,79282",102341,US
+16294,ELEC,WCS NS1 BOSTON RD,Bronx,NY,E,"40,846205","-73,876513",104341,US
+18707,ELEC,Century Parking Corp - Tesla Destination,Bronx,NY,E,"40,878611","-73,914792",114888,US
+18708,ELEC,Standard Parking 1360 Fulton Street - Tesla Destination,Brooklyn,NY,E,"40,679983","-73,946504",114889,US
+18709,ELEC,Standard Parking 15 Metrotech - Tesla Destination,Brooklyn,NY,E,"40,693317","-73,9871",114890,US
+18710,ELEC,Quik Park Armory Parking Inc. - Tesla Destination,Brooklyn,NY,E,"40,692372","-73,969893",114891,US
+18711,ELEC,Discount Parking 180 Ashland Place - Tesla Destination,Brooklyn,NY,E,"40,689411","-73,978741",114892,US
+18712,ELEC,iPark 22/34 N 6th Garage Corp - Tesla Destination,Brooklyn,NY,E,"40,718794","-73,962594",114893,US
+18713,ELEC,iPark 247 N 7th Street - Tesla Destination,Brooklyn,NY,E,"40,716085","-73,954508",114894,US
+18714,ELEC,Parkright 257 Gold Street - Tesla Destination,Brooklyn,NY,E,"40,696871","-73,983002",114895,US
+18715,ELEC,Standard Parking Pierepoint Plaza - Tesla Destination,Brooklyn,NY,E,"40,695115","-73,990993",114896,US
+18716,ELEC,Enterprise 309 Gold Street - Tesla Destination,Brooklyn,NY,E,"40,695013","-73,982843",114897,US
+18717,ELEC,iPark NYC 2234 North 6th - Tesla Destination,Brooklyn,NY,E,"40,719756","-73,962933",114898,US
+18718,ELEC,Standard Parking 1 Metrotech - Tesla Destination,Brooklyn,NY,E,"40,693216","-73,986716",114900,US
+18719,ELEC,GGMC Belltel Car Park - Tesla Destination,Brooklyn,NY,E,"40,692645","-73,985451",114901,US
+18720,ELEC,Quik Park 365 Management LLC - Tesla Destination,Brooklyn,NY,E,"40,677433","-73,990299",114902,US
+18721,ELEC,GMC 388 Bridge Street - Tesla Destination,Brooklyn,NY,E,"40,691652","-73,985733",114903,US
+18722,ELEC,Quik Park Brooklyn Bridge LLC - Tesla Destination,Brooklyn,NY,E,"40,693949","-74,00025",114904,US
+18723,ELEC,Rapidpark 44 State Street - Tesla Destination,Brooklyn,NY,E,"40,691871","-73,998307",114905,US
+18724,ELEC,Park Kwik LLC 50 Washington St. - Tesla Destination,Brooklyn,NY,E,"40,702769","-73,990584",114906,US
+18725,ELEC,Kings County Parking - Tesla Destination,Brooklyn,NY,E,"40,656148","-73,940355",114907,US
+18726,ELEC,1 Hotel Brooklyn Bridge - Tesla Destination,Brooklyn,NY,E,"40,702241","-73,995539",114908,US
+18727,ELEC,City Parking Linc Garage - Tesla Destination,Brooklyn,NY,E,"40,71955","-73,96413",114909,US
+18728,ELEC,"Littleman Driggs Parking, LLC - Tesla Destination",Brooklyn,NY,E,"40,715405","-73,958638",114910,US
+18729,ELEC,GGMC Parking 66 Rockwell Pl Garage - Tesla Destination,Brooklyn,NY,E,"40,68806","-73,979449",114911,US
+18730,ELEC,Standard Parking 200 Cadman Plaza West - Tesla Destination,Brooklyn,NY,E,"40,698807","-73,991859",114912,US
+18731,ELEC,GGMC Parking 75 Smith St Garage - Tesla Destination,Brooklyn,NY,E,"40,688799","-73,988642",114913,US
+18732,ELEC,Standard Parking 2 Metrotech - Tesla Destination,Brooklyn,NY,E,"40,692919","-73,987193",114914,US
+18733,ELEC,Quik Park 81 Fleet Place LLC - Tesla Destination,Brooklyn,NY,E,"40,693208","-73,981326",114915,US
+18734,ELEC,Rapidpark 906 Union Street - Tesla Destination,Brooklyn,NY,E,"40,672726","-73,971664",114916,US
+18735,ELEC,MPG 100 Jay Street - Tesla Destination,Brooklyn,NY,E,"40,702004","-73,987053",114917,US
+18736,ELEC,imPark 101 Bedford Ave - Tesla Destination,Brooklyn,NY,E,"40,720014","-73,95455",114918,US
+18737,ELEC,The William Vale Hotel - Tesla Destination,Brooklyn,NY,E,"40,722362","-73,957208",114919,US
+18787,ELEC,Icon Parking 235 W 48th - Tesla Destination,Manhattan,NY,E,"40,760856","-73,986218",114972,US
+18788,ELEC,Icon Parking 360 E 65th - Tesla Destination,Manhattan,NY,E,"40,763564","-73,960236",114973,US
+18789,ELEC,Icon Parking 205 E 63rd St - Tesla Destination,Manhattan,NY,E,"40,764174","-73,964533",114974,US
+19048,ELEC,Angelina's Ristorante - Tesla Destination,Staten Island,NY,E,"40,51337","-74,25137",115240,US
+20477,ELEC,Queens Center - Tesla Supercharger,Queens,NY,E,"40,735082","-73,87067",116809,US
+21524,ELEC,Brooklyn Museum - Tesla Supercharger,Brooklyn,NY,E,"40,669936","-73,963069",122247,US
+21736,ELEC,ImPark Underhill Garage - Tesla Destination,Brooklyn,NY,E,"40,67746","-73,965421",122469,US
+21737,ELEC,ProPark 184 Kent Ave - Tesla Destination,Brooklyn,NY,E,"40,718763","-73,964599",122470,US
+21738,ELEC,ImPark 500 4th Ave - Tesla Destination,Brooklyn,NY,E,"40,668403","-73,990389",122471,US
+21739,ELEC,Sherman Parking - Tesla Destination,Brooklyn,NY,E,"40,711558","-73,967572",122472,US
+21740,ELEC,iPark 34 N 7th Street - Tesla Destination,Brooklyn,NY,E,"40,720475","-73,96265",122473,US
+21741,ELEC,IMPark 353 4th Ave - Tesla Destination,Brooklyn,NY,E,"40,672845","-73,986284",122475,US
+21742,ELEC,MTP Parking 363 Bond Street - Tesla Destination,Brooklyn,NY,E,"40,677977","-73,990135",122476,US
+21743,ELEC,MTP Parking 568 Union Ave - Tesla Destination,Brooklyn,NY,E,"40,717801","-73,951805",122477,US
+21744,ELEC,ImPark Atlantic Terrace - Tesla Destination,Brooklyn,NY,E,"40,683295","-73,973753",122478,US
+21745,ELEC,MTP Parking 755 Kent Ave - Tesla Destination,Brooklyn,NY,E,"40,698959","-73,9601",122479,US
+21755,ELEC,iPark 400 E 85th St - Tesla Destination,Manhattan,NY,E,"40,776008","-73,949934",122489,US
+21838,ELEC,INDUSTRY CITY LOT B WEST,Brooklyn,NY,E,"40,659333","-74,006419",122592,US
+22030,ELEC,Queens Family Court Garage,Queens,NY,E,"40,7044805","-73,7927244",123069,US
+22034,ELEC,New Lab,Brooklyn,NY,E,"40,69953","-73,974315",123075,US
+22046,ELEC,New York City Transit Authority - Surface Transit Headquarters,Brooklyn,NY,E,"40,678067","-73,8997292",123088,US
+22080,ELEC,Queens College - Kiely Hall,Queens,NY,E,"40,7358738","-73,8158194",123127,US
+22086,ELEC,Queens Borough Hall - Municipal Parking Lot,Queens,NY,E,"40,714376","-73,826095",123134,US
+22251,ELEC,Verizon - Bronx,Bronx,NY,E,"40,872524","-73,890564",123328,US
+22268,ELEC,Verizon - Manhattan,Manhattan,NY,E,"40,764495","-73,996651",123345,US
+25800,ELEC,PANYNJ JFK Y GARAGE 2,Queens,NY,E,"40,64572","-73,779384",147469,US
+25801,ELEC,PANYNJ JFK Y GARAGE 4,Queens,NY,E,"40,645841","-73,779222",147470,US
+25824,ELEC,WOC411HEMP 502 WAVERLY,Brooklyn,NY,E,"40,682964","-73,96582",147509,US
+26762,ELEC,Mall at Bay Plaza - Tesla Supercharger,Bronx,NY,E,"40,863231","-73,828839",149299,US
+26763,ELEC,Atlantic Center - Tesla Supercharger,Brooklyn,NY,E,"40,683715","-73,974337",149300,US
+27477,ELEC,333 Schermerhorn Garage - The Hub - Tesla Destination,Brooklyn,NY,E,"40,68722","-73,981174",150532,US
+27478,ELEC,528 W 162nd Garage-PARK-it - Tesla Destination,Manhattan,NY,E,"40,836425","-73,941393",150533,US
+27479,ELEC,4320 Broadway-PARK-it - Tesla Destination,Manhattan,NY,E,"40,852225","-73,934213",150534,US
+27480,ELEC,506 W 181 St Garage-PARK-it - Tesla Destination,Manhattan,NY,E,"40,848198","-73,931808",150535,US
+27484,ELEC,One Blue Slip-Greenpoint - Tesla Destination,Brooklyn,NY,E,"40,736224","-73,959356",150540,US
+27485,ELEC,Bruno's Bakery and Restaurant - Tesla Destination,Staten Island,NY,E,"40,629424","-74,111586",150541,US
+27513,ELEC,Icon Parking 202 E 18th Street - Tesla Destination,Manhattan,NY,E,"40,735561","-73,985319",150570,US
+27515,ELEC,Icon Parking 175 W 90th Street - Tesla Destination,Manhattan,NY,E,"40,790289","-73,972756",150572,US
+27516,ELEC,Enterprise Parking 545 Washington Ave - Tesla Destination,Brooklyn,NY,E,"40,681876","-73,964169",150573,US
+27517,ELEC,Center Park 250 Albany - Tesla Destination,Manhattan,NY,E,"40,709643","-74,015239",150574,US
+27518,ELEC,Enterprise Parking 150 Myrtle Ave - Tesla Destination,Brooklyn,NY,E,"40,693194","-73,982701",150575,US
+27519,ELEC,Enterprise Parking 147 Flatbush Avenue Extension - Tesla Destination,Brooklyn,NY,E,"40,69504","-73,98394",150576,US
+27523,ELEC,IMPark 188 E 78th St - Tesla Destination,Manhattan,NY,E,"40,773467","-73,958287",150580,US
+27524,ELEC,IMPark 302 2nd St - Tesla Destination,Brooklyn,NY,E,"40,674253","-73,985057",150581,US
+27525,ELEC,IPark 255 Schermerhorn - Tesla Destination,Brooklyn,NY,E,"40,687927","-73,982998",150582,US
+27526,ELEC,IPark 99 3rd Avenue - Tesla Destination,Brooklyn,NY,E,"40,683176","-73,981914",150583,US
+27567,ELEC,3050 Corlear Ave - Nagle Parking Inc. - Tesla Destination,Bronx,NY,E,"40,8799","-73,907762",150624,US
+27640,ELEC,Brunos Bakery and Restaurant - Tesla Destination,Staten Island,NY,E,"40,588001","-74,090126",150697,US
+29068,ELEC,Fordham University,Bronx,NY,E,"40,86095","-73,889379",153856,US
+29077,ELEC,Dock72,Brooklyn,NY,E,"40,700302","-73,972272",153865,US
+33499,ELEC,WCS NS1 SOUTHERN,Bronx,NY,E,"40,850625","-73,881132",162156,US
+33719,ELEC,MONTEFIOREMOSES WAKEFIELD,Bronx,NY,E,"40,894881","-73,860525",162485,US
+33723,ELEC,ATAHOUSING407 HAZEL TOWERS 1,Bronx,NY,E,"40,846821","-73,834633",162498,US
+33724,ELEC,LAFAYETTE BOYNT LAF BOYNT 1,Bronx,NY,E,"40,821451","-73,877642",162499,US
+34269,ELEC,165 E 77 ST Garage,Manhattan,NY,E,"40,773528","-73,959538",163507,US
+34667,ELEC,Gateway Center at Bronx Terminal Market,Bronx,NY,E,"40,822142","-73,931128",164227,US
+34956,ELEC,919 Third Avenue,Manhattan,NY,E,"40,759299","-73,968603",164749,US
+35654,ELEC,CHHA2 Garages LLC,Manhattan,NY,E,"40,777924","-73,957245",166326,US
+35658,ELEC,Little Man Parking,Bronx,NY,E,"40,822935","-73,890483",166332,US
+35659,ELEC,Little Man Parking,Manhattan,NY,E,"40,729483","-73,988368",166333,US
+35660,ELEC,Little Man Parking,Manhattan,NY,E,"40,736778","-73,979688",166334,US
+35679,ELEC,Northwell,Staten Island,NY,E,"40,516856","-74,196692",166366,US
+35681,ELEC,Northwell,Staten Island,NY,E,"40,584259","-74,086919",166368,US
+35835,ELEC,Staten Island Mall,Staten Island,NY,E,"40,58333","-74,166262",166727,US
+35836,ELEC,Staten Island Mall,Staten Island,NY,E,"40,582763","-74,167812",166728,US
+35837,ELEC,Staten Island Mall,Staten Island,NY,E,"40,581751","-74,168466",166729,US
+35838,ELEC,Staten Island Mall,Staten Island,NY,E,"40,581132","-74,167932",166730,US
+36545,ELEC,National Grid - Staten Island,Staten Island,NY,E,"40,624733","-74,179551",167773,US
+36743,ELEC,HAMPTON INN STATION 1,Staten Island,NY,E,"40,612696","-74,179012",168146,US
+36936,ELEC,Courtyard by Marriott,Queens,NY,E,"40,74027","-73,790815",168422,US
+37028,ELEC,iPark 34 N 7th Street - Tesla Destination,Brooklyn,NY,E,"40,720475","-73,96265",168539,US
+37045,ELEC,577 Baltic Street - Adam America Real Estate - Tesla Destination,Brooklyn,NY,E,"40,681251","-73,981971",168557,US
+37046,ELEC,610 Warren Street - Tesla Destination,Brooklyn,NY,E,"40,681274","-73,981216",168558,US
+37424,ELEC,Park Kwik - 110 Livingston - Tesla Destination,Brooklyn,NY,E,"40,690809","-73,990016",169008,US
+37425,ELEC,Park Kwik - 211 Atlantic - Tesla Destination,Brooklyn,NY,E,"40,689671","-73,991786",169009,US
+37426,ELEC,Park Kwik-300 Ashland - Tesla Destination,Brooklyn,NY,E,"40,686628","-73,978374",169010,US
+37609,ELEC,"Trump Golf Links, Ferry Point - Tesla Destination",Bronx,NY,E,"40,811072","-73,835502",169223,US
+40716,ELEC,WCS NS1 ASIA,Bronx,NY,E,"40,846612","-73,876323",173506,US
+41632,ELEC,PANYNJ JFK Y GARAGE 1,Queens,NY,E,"40,645659","-73,779481",174641,US
+41633,ELEC,PANYNJ JFK Y GARAGE 5,Queens,NY,E,"40,645916","-73,779152",174642,US
+41634,ELEC,PANYNJ JFK Y GARAGE 3,Queens,NY,E,"40,645758","-73,779314",174643,US
+47250,ELEC,HAMPTON INN STATION 4,Staten Island,NY,E,"40,612678","-74,178885",181661,US
+47251,ELEC,HAMPTON INN STATION 2,Staten Island,NY,E,"40,612688","-74,178948",181662,US
+47252,ELEC,HAMPTON INN STATION 3,Staten Island,NY,E,"40,612671","-74,17882",181663,US
+47253,ELEC,HAMPTON INN STATION 5,Staten Island,NY,E,"40,612706","-74,179076",181664,US
+49440,ELEC,FLUSHING,Queens,NY,E,"40,756604","-73,828138",184437,US
+50091,ELEC,Canarsie - National Grid,Brooklyn,NY,E,"40,64554","-73,918344",185493,US
+50182,ELEC,1510 Lex Garage,Manhattan,NY,E,"40,786732","-73,950411",185709,US
+51478,ELEC,Red Ball Garage,Manhattan,NY,E,"40,74473006","-73,98049771",187816,US
+51861,ELEC,Manhattan Parking Group,Manhattan,NY,E,"40,768721","-73,983487",189112,US
+53372,ELEC,5935 Broadway,Bronx,NY,E,"40,888461","-73,899119",191505,US
+53373,ELEC,3474 Putnam Place,Bronx,NY,E,"40,879413","-73,875485",191506,US
+54023,ELEC,NYC FLEET DPRWFMARINA#3,Queens,NY,E,"40,760424","-73,856316",193126,US
+54558,ELEC,NYC FLEET DPR_VCP-ARC1,Bronx,NY,E,"40,88734","-73,89526",193837,US
+54559,ELEC,NYC FLEET DPR_VCP-ARC2,Bronx,NY,E,"40,892423","-73,882373",193838,US
+54674,ELEC,NYC Parking Kent,Brooklyn,NY,E,"40,709168","-73,968491",193979,US
+55045,ELEC,383 Court St,Brooklyn,NY,E,"40,680484","-73,996719",194646,US
+55046,ELEC,99 Prospect Park W,Brooklyn,NY,E,"40,66696","-73,975032",194647,US
+55083,ELEC,Revel Brooklyn Superhub,Brooklyn,NY,E,"40,69933379421704","-73,94966479629517",194700,US
+55181,ELEC,"Walgreens - Brooklyn, NY #15097",Brooklyn,NY,E,"40,6567801","-73,9777597",194845,US
+55233,ELEC,EVolve NY JFK Airport,Queens,NY,E,"40,656083","-73,808091",194919,US
+55830,ELEC,33 Norman Ave,Brooklyn,NY,E,"40,724591","-73,954512",195667,US
+55831,ELEC,1235 Linden Blvd,Brooklyn,NY,E,"40,654381","-73,913436",195668,US
+56352,ELEC,1065 Elton St,Brooklyn,NY,E,"40,657441","-73,874619",196329,US
+56580,Fuel,NPS NERO - STIS - Fort Wadsworth - Mechanic Shop - Fuel Station 1,Staten Island,NY,E,"40,60391","-74,058548",196609,US
+56589,Fuel,NPS NERO - STIS - Fort Wadsworth - Mechanic Shop - Fuel Station 1,Staten Island,NY,E,"40,60391","-74,058548",196619,US
+56869,ELEC,626 Sheepshead Bay Rd - Parking,Brooklyn,NY,E,"40,57863","-73,975218",197548,US
+57096,ELEC,597 Clarkson Ave,Brooklyn,NY,E,"40,656102","-73,940436",197855,US
+57673,ELEC,Walgreens,Brooklyn,NY,E,"40,656459","-73,977527",198587,US
+58114,ELEC,167-149 Meeker Ave,Brooklyn,NY,E,"40,714318","-73,953186",199108,US
+58423,ELEC,831 3rd Ave,Brooklyn,NY,E,"40,6567661818936","-74,0048016913848",199508,US
+58702,ELEC,2 Bedford Park Blvd W,Bronx,NY,E,"40,875421459966","-73,8939407447884",200599,US
+59449,ELEC,3500 Dekalb Ave,Bronx,NY,E,"40,882337","-73,880265",201636,US
+59771,ELEC,7 Marcus Garvey Blvd,Brooklyn,NY,E,"40,700039","-73,941261",202055,US
+59859,ELEC,145 Brooklyn Ave,Brooklyn,NY,E,"40,674612","-73,944569",202163,US
+59860,ELEC,484 43rd St,Brooklyn,NY,E,"40,649116","-74,006479",202164,US
+59861,ELEC,352 8th St,Brooklyn,NY,E,"40,668517","-73,983283",202165,US
+60317,ELEC,395 Lenox Rd,Brooklyn,NY,E,"40,654476","-73,946741",202766,US
+60440,ELEC,419 Stuyvesant Ave,Brooklyn,NY,E,"40,679727","-73,931347",202930,US
+60441,ELEC,134 N 4th St,Brooklyn,NY,E,"40,716441","-73,960043",202931,US
+61428,ELEC,33-10 Queens Blvd,Queens,NY,E,"40,7443625","-73,93112013",204691,US
+62205,ELEC,7-Eleven,Bronx,NY,E,"40,8690276772083","-73,8315760899824",205822,US
+62209,ELEC,Northeast Bronx YMCA,Bronx,NY,E,"40,8827858370269","-73,8419855959349",205826,US
+64574,ELEC,Stop & Shop #566 - Arverne By-the-sea,Queens,NY,E,"40,589841","-73,800082",212485,US
+66461,ELEC,79-01 Broadway,Queens,NY,E,"40,745853","-73,884134",216616,US
+66462,ELEC,34-20 30th Ave,Queens,NY,E,"40,7652332","-73,9184356",216617,US
+66722,ELEC,INDUSTRY CITY LOT B EAST,Brooklyn,NY,E,"40,659338","-74,006454",217354,US
+68036,ELEC,Empire Outlets Garage,Staten Island,NY,E,"40,6447631696563","-74,0758370071514",220701,US
+68037,ELEC,T.J. Maxx,Staten Island,NY,E,"40,5690444034597","-74,1095755305259",220702,US
+68725,ELEC,HCBR STATION 1,Brooklyn,NY,E,"40,619335","-74,029466",221556,US
+69402,ELEC,266 13th St,Brooklyn,NY,E,"40,667017","-73,988698",222574,US
+69406,ELEC,160 W 84th St,Manhattan,NY,E,"40,786312","-73,97569",222579,US
+69624,ELEC,Rapid Park - 44 State St,Brooklyn,NY,E,"40,6918","-73,99829",223100,US
+69640,ELEC,906 Union St,Brooklyn,NY,E,"40,67283","-73,97175",223116,US
+69993,ELEC,Supercharge NYC,Brooklyn,NY,E,"40,7136044677631","-73,93309885767226",223588,US
+70050,ELEC,35 Red Cross Pl,Brooklyn,NY,E,"40,6994875","-73,9895156",223717,US
+70288,ELEC,40 N 4th St Apartments,Brooklyn,NY,E,"40,718391","-73,963339",224261,US
