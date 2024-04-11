@@ -33,7 +33,7 @@
 
 *Una vez que el archivo se encuentra en el bucket que alimenta a AWS Athena, podemos ejecutar consultas SQL para obtener información de los datos almacenados en el Data Warehouse.*
 
-![]()
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/crawler.png)
 ![]()
 
 Conforme la base de datos de la Comisión de Taxis y Limusinas (TLC) se renueve, nuestro Data Warehouse y todos los servicios de AWS que dependan de él se actualizarán automáticamente mediante nuestra función Lambda. Esta función tomará los nuevos registros de viajes y los almacenará en el bucket del Data Warehouse, garantizando así la actualización continua de los datos y la coherencia del sistema.
