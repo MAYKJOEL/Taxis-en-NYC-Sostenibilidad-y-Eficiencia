@@ -29,7 +29,7 @@
 
 *La automatización de este proceso se lleva a cabo mediante otro evento de AWS EventBridge que se ejecuta el primer día de cada mes a las 02:00 horas.*
 
-![]()
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/aws%20s3.png)
 
 *Una vez que el archivo se encuentra en el bucket que alimenta a AWS Athena, podemos ejecutar consultas SQL para obtener información de los datos almacenados en el Data Warehouse.*
 
