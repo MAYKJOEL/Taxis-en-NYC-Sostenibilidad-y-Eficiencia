@@ -15,4 +15,24 @@
 
 *Una vez obtenidos los archivos parquet, recurrimos al uso de AWS Glue para automatizar el proceso de normalización de los datos. AWS Glue es un servicio de extracción, transformación y carga (ETL) totalmente administrado que facilita la preparación y la carga de los datos para su análisis. Con AWS Glue, podemos crear y ejecutar trabajos de ETL con unos pocos clics en la consola de AWS o ejecutar el código directamente en Apache Spark para aprovechar los beneficios de escala, seguridad y administración que ofrece.*
 
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/ETL%20TAXIS.png)
+
+*Para automatizar la normalización de los datos, se implementó AWS EventBridge para programar la ejecución de la tarea de AWS Glue en el primer día de cada mes, a la 01:00 horas.*
+
 ![]()
+
+*Una vez completada la normalización de los datos, el archivo resultante en formato Parquet se guarda en un bucket de AWS S3. Sin embargo, el archivo se almacena con un nombre predeterminado generado automáticamente al guardar un archivo Parquet mediante Apache Spark con el formato de compresión Snappy.*
+
+*Para abordar este problema, implementamos otra función Lambda que se encarga de renombrar el archivo y luego lo almacena en un bucket que alimenta a nuestro Data Warehouse.*
+
+![]()
+
+
+
+
+
+
+
+
+
+
