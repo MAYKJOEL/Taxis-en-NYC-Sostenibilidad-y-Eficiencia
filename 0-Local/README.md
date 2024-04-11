@@ -4,7 +4,7 @@
 
 *Como primera fase del proyecto, elaboramos un diagrama de Gantt para establecer objetivos y fechas de entrega con mayor claridad y precisión.*
 
-![]()
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-11%20at%2011.16.37.jpeg)
 
 
 #### *Extraccion, Transformacion y Carga (ETL) y Análisis Exploracion de datos (EDA)*
