@@ -36,7 +36,12 @@
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/crawler.png)
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/crawler2.png)
 
-Conforme la base de datos de la Comisión de Taxis y Limusinas (TLC) se renueve, nuestro Data Warehouse y todos los servicios de AWS que dependan de él se actualizarán automáticamente mediante nuestra función Lambda. Esta función tomará los nuevos registros de viajes y los almacenará en el bucket del Data Warehouse, garantizando así la actualización continua de los datos y la coherencia del sistema.
+*Conforme la base de datos de la Comisión de Taxis y Limusinas (TLC) se renueve, nuestro Data Warehouse y todos los servicios de AWS que dependan de él se actualizarán automáticamente mediante nuestra función Lambda. Esta función tomará los nuevos registros de viajes y los almacenará en el bucket del Data Warehouse, garantizando así la actualización continua de los datos y la coherencia del sistema.*
+
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Athenas.png)
+
+*Para visualizar los datos almacenados en el Data Warehouse, empleamos Power BI, un servicio de inteligencia de negocios (BI) que nos permite crear y publicar paneles interactivos con visualizaciones de datos en tiempo real. Estos paneles son accesibles desde cualquier dispositivo y pueden compartirse fácilmente con otros miembros de la organización.*
+*Conectamos Power BI utilizando el conector certificado Simba Athena, permitiéndonos acceder directamente a los datos almacenados en AWS Athena y crear visualizaciones dinámicas y personalizadas con facilidad. Este conector garantiza una integración segura y eficiente entre Power BI y AWS Athena, facilitando el análisis de datos en tiempo real y la toma de decisiones informadas.*
 
 ![]()
 
