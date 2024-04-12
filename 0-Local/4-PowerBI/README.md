@@ -1,8 +1,8 @@
 
 # <h1 align=center>  DATAMIND <h1>
+## <h4 align=center> **Transformando Datos en Decisiones**</h4>
 ## <h4 align=center> **PROJECT GRUPAL **</h4>
 ### <h2 align=center> 🚕Taxis NYC Sostenibilidad y Eficiencia🚕<h2>
-
 
 <h2 align=center>Recommendation System</h2>
 <h2 align=center> ** 🚖(MLOps)🚖** </h2>
@@ -14,18 +14,13 @@
 
 ![DATAMIND](https://github.com/EVBic/PI-01-ML-SteamGames-FYF/blob/main/Images/FYF_Main.jpeg)
 
-## Project Overview:  :white_circle:
+## `Equipo`:  :white_circle:
 
-
-Transformando Datos en Decisiones
-
-## `Equipo`
-
-* **`Natalia` _(Data Analyst)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhiriart/)
-* **`Juan ` _(Data Analyst)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ituyan-a3274613a/)
-* **`Juan` _(Data Scientist)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-segarra-031676238/)
-* **`Mayk` _(Data Engineer)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-farah-618b00271/)
-* **`Maria Eva` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+* **`Natalia Paez` _(Data Engineer)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhiriart/)
+* **`Juan Sebastin Maldonado ` _(Data Analyst)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ituyan-a3274613a/)
+* **`Juan Rabuffetti` _(Data Engineer)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-segarra-031676238/)
+* **`Mayk Quispe` _(Data Scientist)_**   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-farah-618b00271/)
+* **`Maria Eva Bichi` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
 ¿Quienes somos?
 
@@ -43,7 +38,6 @@ Este proyecto ofrece un análisis cuantitativo y cualitativo de los movimientos 
 El transporte terrestre es causante del 90% de las emisiones del sector en la región, siendo un 50% producido por transporte de pasajeros.
 
 
-
 Relación entre el transporte de pasajeros con automóviles y la calidad del aire: 
 La movilidad urbana actual está produciendo una serie de conflictos ambientales advertidos a nivel global; la mayor parte vinculados al uso de transporte motorizado, responsable del consumo energético, la fragmentación y ocupación del territorio por la construcción de vialidades, además de contaminación acústica y atmosférica. 
 
@@ -58,50 +52,7 @@ La misión es evaluar exhaustivamente los datos relacionados con la operación d
 
 A través de la exploración de datos y el análisis de tendencias, esperamos aportar soluciones significativas que beneficien tanto a la empresa como al medioambiente.
 
- En la ciudad de Nueva York, los taxis verdes y amarillos son bastante comunes. Los taxis amarillos son icónicos y se encuentran principalmente en Manhattan, mientras que los taxis verdes, conocidos como “Boro Taxis”, operan principalmente en las áreas exteriores de Manhattan, como Brooklyn, Queens, el Bronx y Staten Island. Ambos tipos de taxis son parte del esfuerzo por ofrecer opciones de transporte sostenibles y reducir la contaminación del aire y sonora en la ciudad. 🚖🌿
-
----
-
-Green taxis in NYC
-Have you ever wondered to yourself, “hey, what’s with the green taxis in New York City? Aren’t they supposed to be yellow? If so, then this article is for you. Here’s a quick look at what certain NYC taxis are green. Turns out there’s an explanation. Let’s dive in!
-
-
-Subscribe to New York Simply!
-Get updates on the latest posts and more from New York Simply straight to your inbox.
-
-Your Email...
-JOIN THE CLUB!
-
-I consent to receiving emails and personalized ads.
-Green Taxis in New York City
-(Table of Contents)
-History of the Green Cabs in NYC
-As you know, New York City is a very popular place. More than 65 million per year visit New York and most of those visitors tend to explore (and stay in) Manhattan.
-
-As such, the city’s other four boroughs often get neglected. Services, such as cabs, become less available to people that work and play outside of Manhattan (and the popular areas in Brooklyn). Hailing a random taxis is way harder in the heart of Queens compared to Midtown.
-
-The lack of taxis in the less-visited areas seemed unfair to residents (imaging needing an emergency ride to the hospital!)
-
-
-
-In the summer of 2013, the City of New York created a program to mitigate a discrepancy in taxi service for the less visited parts of NYC — Harlem, Queens, the Bronx and Brooklyn. The new program rolled out green cabs in NYC that officially became known as Boro Taxis.
-
-Per NYC’s Transportation & Limousine Commission (TLC): The goal of the Boro Taxi program is to improve access to street-hail transportation throughout the five boroughs – especially for persons with disabilities and people who live or spend time in areas of New York City historically under-served by the yellow taxi industry.
-
-
-What’s the Difference Between Yellow and Green Taxis in NYC?
-The biggest difference between yellow and green cabs in New York City is the starting point of the ride. Think of it this way: Yellow cabs have no restrictions, they can pick-up and drop-off wherever the passenger wants (as long as it’s a safe location, of course). Green cabs, on the other had, have some rules.
-Green cabs can only pick up passengers in Harlem (south of West 110th St and East 96th St), Queens, the Bronx and Brooklyn. They can drop off the passengers wherever needed, The green taxis can drop passengers off anywhere in New York City (all five boroughs).
-How Does the Green Taxi Program Work?
-A green taxi can pick up passengers outside of Manhattan but it can’t pick up passengers within Manhattan. Boro Taxis can be street-hailed or scheduled in advance, as long as the pick-up point is outside of the Manhattan exclusion zone.
-
-Apart from the pickup location and color, all other features of the green NYC taxi are identical to the yellow taxis. Boro Taxis are equipped with credit/debit card readers, meters, roof lights and cameras.
-
-
-the metered fare for a green taxi in NYC is the same as the metered fare for a yellow taxi.
-
-## `Tecnologías utilizadas`
-
+## `Tecnologías utilizadas`:  :white_circle:
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
@@ -130,4 +81,67 @@ the metered fare for a green taxi in NYC is the same as the metered fare for a y
 ![AWS Quicksight](https://img.shields.io/badge/AWS%20Quicksight-black?style=flat&logo=AmazonAWS&logoColor=yellow)
 ![Pyspark](https://img.shields.io/badge/Pyspark-black?style=flat&logo=apache%20spark)
 ![Render](https://img.shields.io/badge/Render-black?style=flat&logo=RENDER)
+
+## `Un poco de historia`:  :white_circle:
+
+La ciudad de Nueva York es un lugar muy popular. Más de 65 millones de personas visitan Nueva York al año y la mayoría de esos visitantes tienden a explorar (y quedarse) Manhattan.
+
+Como tal, los otros cuatro distritos de la ciudad a menudo quedan descuidados. Servicios, como los taxis, están cada vez menos disponibles para las personas que trabajan y juegan fuera de Manhattan (y las zonas populares de Brooklyn). Tomar un taxi al azar es mucho más difícil en el corazón de Queens que en Midtown.
+
+La falta de taxis en las zonas menos visitadas parecía injusta para los residentes (¡imaginándose que necesitaban un viaje de emergencia al hospital!).
+
+En el verano de 2013, la ciudad de Nueva York creó un programa para mitigar una discrepancia en el servicio de taxi para las partes menos visitadas de Nueva York: Harlem, Queens, el Bronx y Brooklyn. El nuevo programa implementó taxis ecológicos en Nueva York que se conocieron oficialmente como Boro Taxis.
+
+Según la Comisión de Transporte y Limusinas (TLC) de la Ciudad de Nueva York: El objetivo del programa Boro Taxi es mejorar el acceso al transporte callejero en los cinco condados, especialmente para las personas con discapacidades y las personas que viven o pasan tiempo en áreas históricas de la ciudad de Nueva York. desatendidos por la industria del taxi amarillo.
+
+ En la ciudad de Nueva York, los taxis verdes y amarillos son bastante comunes. Los taxis amarillos son icónicos y se encuentran principalmente en Manhattan, mientras que los taxis verdes, conocidos como “Boro Taxis”, operan principalmente en las áreas exteriores de Manhattan, como Brooklyn, Queens, el Bronx y Staten Island. Ambos tipos de taxis son parte del esfuerzo por ofrecer opciones de transporte sostenibles y reducir la contaminación del aire y sonora en la ciudad. 🚖🌿
+
+## ¿Cuál es la diferencia entre los taxis amarillos y verdes en Nueva York? ##
+La mayor diferencia entre los taxis amarillos y verdes en la ciudad de Nueva York es el punto de partida del viaje. Piénselo de esta manera: los taxis amarillos no tienen restricciones, pueden recoger y dejar al pasajero donde quiera (siempre que sea un lugar seguro, por supuesto). Los taxis verdes, por el contrario, tienen algunas reglas.
+Los taxis verdes sólo pueden recoger pasajeros en Harlem (al sur de West 110th St y East 96th St), Queens, el Bronx y Brooklyn. Pueden dejar a los pasajeros donde sea necesario. Los taxis verdes pueden dejar a los pasajeros en cualquier lugar de la ciudad de Nueva York (los cinco distritos).
+
+## ¿Cómo funciona el programa Taxi Verde? ##
+Un taxi verde puede recoger pasajeros fuera de Manhattan pero no puede recoger pasajeros dentro de Manhattan. Los Boro Taxis se pueden tomar en la calle o programar con anticipación, siempre que el punto de recogida esté fuera de la zona de exclusión de Manhattan.
+
+Aparte del lugar de recogida y el color, todas las demás características del taxi verde de Nueva York son idénticas a las de los taxis amarillos. Los Boro Taxis están equipados con lectores de tarjetas de crédito/débito, medidores, luces de techo y cámaras.
+
+La tarifa con taxímetro de un taxi verde en Nueva York es la misma que la tarifa con taxímetro de un taxi amarillo.
+
+## `KPI´S`:  :white_circle:
+
+A través del análisis de KPIs fundamentales, hemos evaluado si la inversión en esta tecnología representa una verdadera contribución a la reducción de la contaminación ambiental.
+
+## kpi nro 1 ##
+En primer lugar, el KPI 1, relativo a las emisiones de CO2 por milla recorrida, nos ofrece resultados altamente satisfactorios. La meta establecida era reducir las emisiones en un 30%, y con gran satisfacción podemos informar que se logró una reducción del 100%. Esto significa que los taxis eléctricos están generando un 30% menos de CO2 que los taxis tradicionales por cada milla recorrida, lo que representa un avance significativo en la lucha contra la contaminación atmosférica.
+
+## kpi nro 2 ##
+En cuanto al KPI 2, que mide la reducción anual de emisiones, si bien no se alcanzó la meta del 15% establecida para el período 2022-2023, sí se logró una reducción considerable del 12%. Esta desviación de la meta nos impulsa a realizar una investigación profunda para identificar las causas subyacentes y desarrollar estrategias efectivas para optimizar el rendimiento en el futuro. No obstante, cabe destacar que la reducción del 12% sigue siendo un resultado positivo que demuestra el potencial de los taxis eléctricos para disminuir el impacto ambiental del sector transporte.
+
+## kpi nro 3 ##
+En lo que respecta al KPI 3, que evalúa el impacto ambiental total en un período de 6 años, los resultados son mixtos. La meta era reducir las emisiones en un 15% durante este período, sin embargo, solo se logró una reducción del 7%. Si bien no se superó la meta inicial, este resultado evidencia un avance positivo en la dirección correcta.
+
+## En conjunto, los tres KPIs ambientales ## 
+nos permiten concluir que los taxis eléctricos están teniendo un impacto positivo en el medio ambiente. La reducción de las emisiones de CO2 por milla recorrida, la disminución anual de emisiones y el impacto ambiental total positivo, aunque no alcance la meta esperada, confirman que la inversión en taxis eléctricos es una decisión acertada que contribuye a la mitigación del cambio climático y la mejora de la calidad del aire.
+
+## `Preguntas claves`:  :white_circle:
+
+## ¿Cómo se comparan las emisiones de CO2 de los taxis eléctricos con las de otros tipos de transporte? ##
+
+Los taxis eléctricos presentan emisiones de CO2 significativamente más bajas en comparación con los taxis tradicionales. Un taxi eléctrico emite un promedio de 250 gramos de CO2 por milla, mientras que un taxi tradicional emite un promedio de 500 gramos de CO2 por milla. Esta diferencia sustancial posiciona a los taxis eléctricos como una alternativa más ecoamigable dentro del sector transporte.
+
+## ¿Qué tan accesibles son los taxis eléctricos para los consumidores? ##
+
+En los últimos años, el costo de los taxis eléctricos ha experimentado una reducción considerable, haciéndolos más accesibles para los consumidores. El precio promedio de un nuevo taxi eléctrico en los Estados Unidos ronda los $35,000, y además, existen diversos incentivos gubernamentales que facilitan la adquisición de estos vehículos.
+
+Siguiente filmina: 
+
+## ¿Qué infraestructura se necesita para apoyar la adopción generalizada de taxis eléctricos? ##
+
+Para fomentar la adopción masiva de taxis eléctricos, es fundamental desarrollar una infraestructura adecuada que incluya estaciones de carga públicas. Afortunadamente, la infraestructura de carga se encuentra en constante expansión.
+
+En definitiva, este estudio nos permite afirmar que:
+
+##  los taxis eléctricos representan una alternativa viable y sostenible para el servicio de taxi, contribuyendo de manera significativa a la reducción de la contaminación ambiental y promoviendo un futuro más verde. La inversión en esta tecnología no solo beneficia al medio ambiente, sino que también abre nuevas oportunidades para el desarrollo económico y la creación de empleos.##
+
+
 
