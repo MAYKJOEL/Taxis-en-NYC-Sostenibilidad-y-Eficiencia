@@ -40,6 +40,11 @@
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Athenas.png)
 
+*Con las tablas que hemos creado, podemos plasmar la estructura del Diagrama Entidad-Relación (DER), lo cual facilita el análisis de datos. A continuación, se muestra el DER del estudio, el cual exhibe una estructura similar a un copo de nieve, donde cada tabla establece relaciones con otras, generando una red interconectada:*
+
+![]()
+
+
 *Para visualizar los datos almacenados en el Data Warehouse, empleamos Power BI, un servicio de inteligencia de negocios (BI) que nos permite crear y publicar paneles interactivos con visualizaciones de datos en tiempo real. Estos paneles son accesibles desde cualquier dispositivo y pueden compartirse fácilmente con otros miembros de la organización.*
 *Conectamos Power BI utilizando el conector certificado Simba Athena, permitiéndonos acceder directamente a los datos almacenados en AWS Athena y crear visualizaciones dinámicas y personalizadas con facilidad. Este conector garantiza una integración segura y eficiente entre Power BI y AWS Athena, facilitando el análisis de datos en tiempo real y la toma de decisiones informadas.*
 
