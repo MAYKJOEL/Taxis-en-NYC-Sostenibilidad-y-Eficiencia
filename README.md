@@ -1,5 +1,7 @@
 
-# <h1 align=center>  DATAMIND <h1>
+<p align="center">
+  <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/0-Local/4-PowerBI/DATAMINDBLACK.jpg" alt="DATAMIND" width="250" height="150" >
+</p>
 ## <h4 align=center> **Transformando Datos en Decisiones**</h4>
 ## <h4 align=center> **PROJECTO GRUPAL **</h4>
 ### <h2 align=center> 🚕Taxis NYC Sostenibilidad y Eficiencia🚕<h2>
@@ -12,7 +14,6 @@
 <h2 align=center> Try it out HERE==> [Link](https:)</h2>
 <h2 align=center> VIDEO HERE==> [Link](https:)</h2>
 
-![DATAMIND](https://)
 
 ## `Equipo`:  :white_circle:
 
