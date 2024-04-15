@@ -138,7 +138,7 @@ Que los taxis eléctricos están teniendo un impacto positivo en el medio ambien
 
 ## ¿Cómo se comparan las emisiones de CO2 de los taxis eléctricos con las de otros tipos de transporte? ##
 
-Los taxis eléctricos presentan emisiones de CO2 significativamente más bajas en comparación con los taxis tradicionales. Un taxi eléctrico emite un promedio de 250 gramos de CO2 por milla, mientras que un taxi tradicional emite un promedio de 500 gramos de CO2 por milla. Esta diferencia sustancial posiciona a los taxis eléctricos como una alternativa más ecoamigable dentro del sector transporte.
+Los taxis eléctricos presentan emisiones de CO2 significativamente más bajas en comparación con los taxis tradicionales. Un taxi eléctrico emite un promedio de 0 gramos de CO2 por milla, mientras que un taxi tradicional emite un promedio de 150 gramos de CO2 por milla. Esta diferencia sustancial posiciona a los taxis eléctricos como una alternativa más ecoamigable dentro del sector transporte.
 
 ## ¿Qué tan accesibles son los taxis eléctricos para los consumidores? ##
 
