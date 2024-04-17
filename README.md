@@ -2,12 +2,12 @@
 <p align="center">
   <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/0-Local/4-PowerBI/datamind1.jpg" alt="DATAMIND" width="250" height="150" >
 </p>
- <h4 align=center> **Transformando Datos en Decisiones**</h4>
- <h4 align=center> **PROYECTO GRUPAL **</h4>
+ <h4 align=center> *Transformando Datos en Decisiones*</h4>
+ <h4 align=center> *PROYECTO GRUPAL *</h4>
  <h2 align=center> 🚕Taxis NYC Sostenibilidad y Eficiencia🚕<h2>
 
 <h2 align=center></h2>
-<h2 align=center> ** 🚖(MLOps)🚖** </h2>
+<h2 align=center> * 🚖(MLOps)🚖* </h2>
 <h3 align=center> Henry's Labs</h3>
 <h2 align=center> By DATAMIND</h2>
 
