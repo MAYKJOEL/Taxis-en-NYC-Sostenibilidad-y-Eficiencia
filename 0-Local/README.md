@@ -49,7 +49,7 @@ Modelo: RandomForest Regressor
 *- \( n_{estimators} \) es el número total de árboles en el ensamble.*
 *- \( f_k \) es la predicción del árbol \(k\).*
 
-![]()
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Captura%20de%20pantalla%20(108).png)
 
 *Lógica de Uso:*
 *1. Entrenamiento:*
