@@ -19,12 +19,7 @@
 
 *Para automatizar la normalización de los datos, se implementó AWS EventBridge para programar la ejecución de la tarea de AWS Glue en el primer día de cada mes, a la 01:00 horas.*
 
-*Para la validación de datos, utilizamos un desencadenador de SNS de AWS que envía un correo electrónico al administrador de la cuenta para informar si se ha realizado exitosamente la validación de datos.*
 
-
-![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.01.34.jpeg)
-
-![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.02.20.jpeg)
 
 *Una vez completada la normalización de los datos, el archivo resultante en formato Parquet se guarda en un bucket de AWS S3. Sin embargo, el archivo se almacena con un nombre predeterminado generado automáticamente al guardar un archivo Parquet mediante Apache Spark con el formato de compresión Snappy.*
 
@@ -35,6 +30,15 @@
 *La automatización de este proceso se lleva a cabo mediante otro evento de AWS EventBridge que se ejecuta el primer día de cada mes a las 02:00 horas.*
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/aws%20s3.png)
+
+*Para la validación de datos, utilizamos un desencadenador de SNS de AWS que envía un correo electrónico al administrador de la cuenta para informar si se ha realizado exitosamente la validación de datos.*
+
+
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.02.20.jpeg)
+
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.02.20.jpeg)
+
+
 
 *Una vez que el archivo se encuentra en el bucket que alimenta a AWS Athena, podemos ejecutar consultas SQL para obtener información de los datos almacenados en el Data Warehouse.*
 
