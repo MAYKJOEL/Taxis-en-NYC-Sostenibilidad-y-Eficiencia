@@ -22,6 +22,8 @@
 *Para la validación de datos, utilizamos un desencadenador de SNS de AWS que envía un correo electrónico al administrador de la cuenta para informar si se ha realizado exitosamente la validación de datos.*
 
 
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.01.34.jpeg)
+
 ![]()
 
 *Una vez completada la normalización de los datos, el archivo resultante en formato Parquet se guarda en un bucket de AWS S3. Sin embargo, el archivo se almacena con un nombre predeterminado generado automáticamente al guardar un archivo Parquet mediante Apache Spark con el formato de compresión Snappy.*
