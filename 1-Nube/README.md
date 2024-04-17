@@ -19,6 +19,9 @@
 
 *Para automatizar la normalización de los datos, se implementó AWS EventBridge para programar la ejecución de la tarea de AWS Glue en el primer día de cada mes, a la 01:00 horas.*
 
+*Para la validación de datos, utilizamos un desencadenador de SNS de AWS que envía un correo electrónico al administrador de la cuenta para informar si se ha realizado exitosamente la validación de datos.*
+
+
 ![]()
 
 *Una vez completada la normalización de los datos, el archivo resultante en formato Parquet se guarda en un bucket de AWS S3. Sin embargo, el archivo se almacena con un nombre predeterminado generado automáticamente al guardar un archivo Parquet mediante Apache Spark con el formato de compresión Snappy.*
@@ -39,6 +42,8 @@
 *Conforme la base de datos de la Comisión de Taxis y Limusinas (TLC) se renueve, nuestro Data Warehouse y todos los servicios de AWS que dependan de él se actualizarán automáticamente mediante nuestra función Lambda. Esta función tomará los nuevos registros de viajes y los almacenará en el bucket del Data Warehouse, garantizando así la actualización continua de los datos y la coherencia del sistema.*
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Athenas.png)
+
+
 
 *Con las tablas que hemos creado, podemos plasmar la estructura del Diagrama Entidad-Relación (DER), lo cual facilita el análisis de datos. A continuación, se muestra el DER del estudio, el cual exhibe una estructura similar a un copo de nieve, donde cada tabla establece relaciones con otras, generando una red interconectada:*
 
