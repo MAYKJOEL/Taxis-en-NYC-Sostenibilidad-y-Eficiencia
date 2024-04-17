@@ -69,7 +69,7 @@
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/SageMaker1.jpeg)
 
-![]()
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/SageMaker2.jpeg)
 
 
 
