@@ -19,7 +19,7 @@
 
 *Para automatizar la normalización de los datos, se implementó AWS EventBridge para programar la ejecución de la tarea de AWS Glue en el primer día de cada mes, a la 01:00 horas.*
 
-![]()
+
 
 *Una vez completada la normalización de los datos, el archivo resultante en formato Parquet se guarda en un bucket de AWS S3. Sin embargo, el archivo se almacena con un nombre predeterminado generado automáticamente al guardar un archivo Parquet mediante Apache Spark con el formato de compresión Snappy.*
 
@@ -31,6 +31,15 @@
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/aws%20s3.png)
 
+*Para la validación de datos, utilizamos un desencadenador de SNS de AWS que envía un correo electrónico al administrador de la cuenta para informar si se ha realizado exitosamente la validación de datos.*
+
+
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.02.20.jpeg)
+
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/WhatsApp%20Image%202024-04-17%20at%2009.02.20.jpeg)
+
+
+
 *Una vez que el archivo se encuentra en el bucket que alimenta a AWS Athena, podemos ejecutar consultas SQL para obtener información de los datos almacenados en el Data Warehouse.*
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/crawler.png)
@@ -40,10 +49,27 @@
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Athenas.png)
 
+
+
+*Con las tablas que hemos creado, podemos plasmar la estructura del Diagrama Entidad-Relación (DER), lo cual facilita el análisis de datos. A continuación, se muestra el DER del estudio, el cual exhibe una estructura similar a un copo de nieve, donde cada tabla establece relaciones con otras, generando una red interconectada:*
+
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
+
+
 *Para visualizar los datos almacenados en el Data Warehouse, empleamos Power BI, un servicio de inteligencia de negocios (BI) que nos permite crear y publicar paneles interactivos con visualizaciones de datos en tiempo real. Estos paneles son accesibles desde cualquier dispositivo y pueden compartirse fácilmente con otros miembros de la organización.*
 *Conectamos Power BI utilizando el conector certificado Simba Athena, permitiéndonos acceder directamente a los datos almacenados en AWS Athena y crear visualizaciones dinámicas y personalizadas con facilidad. Este conector garantiza una integración segura y eficiente entre Power BI y AWS Athena, facilitando el análisis de datos en tiempo real y la toma de decisiones informadas.*
 
+![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png)
+
+
+#### *Entrenamiento de Modelo en AWS SegeMaker*
+
+*Para el entrenamiento de nuestros modelos de Machine Learning, empleamos AWS Sagemaker, un servicio completamente administrado que agiliza la creación, entrenamiento e implementación de modelos de Machine Learning a cualquier escala. Con Sagemaker, podemos desarrollar modelos personalizados utilizando una amplia gama de algoritmos de aprendizaje, y llevarlos a producción en solo unos pocos clics. Esto incluye algoritmos para tareas como clasificación, regresión, agrupación, detección de anomalías, recomendación y aprendizaje profundo, proporcionándonos flexibilidad y potencia para abordar diversas necesidades de análisis y predicción.*
+
+
 ![]()
+
+
 
 
 
