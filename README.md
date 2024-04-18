@@ -1,24 +1,24 @@
 
+
+
+ <h1 align=center> PROYECTO TAXIS NYC SOSTENIBILIDAD Y EFICIENCIA </h1>
+ <h2 align=center> <h2>
+<p align="center">
+  <img src="https://www.tendenciainternacional.com/wp-content/uploads/2023/05/dos-jovenes-emprendedores-trabajando-computadora-leyendo-correo-electronico-oficina-1037x640.jpg" alt="DATAMIND" width="500" height="300" >
+</p>
+<h4 align=center> Transformando Datos en Decisiones</h4>
+<h2 align=center></h2>
+<h1 align=center> By DATAMIND</h1>
 <p align="center">
   <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/0-Local/4-PowerBI/datamind1.jpg" alt="DATAMIND" width="250" height="150" >
 </p>
- <h4 align=center> *Transformando Datos en Decisiones*</h4>
- <h4 align=center> *PROYECTO GRUPAL *</h4>
- <h2 align=center> 🚕Taxis NYC Sostenibilidad y Eficiencia🚕<h2>
-
-<h2 align=center></h2>
-<h2 align=center> * 🚖(MLOps)🚖* </h2>
-<h3 align=center> Henry's Labs</h3>
-<h2 align=center> By DATAMIND</h2>
-
-
 <h2 align=center> 
-  
+
 [Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
 </h2>
-<h2 align=center> VIDEO HERE==> [Link](https:)</h2>
 
-## `Equipo`:  :white_circle:
+
+## `Equipo`:
 
 * **`Natalia Paez` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
@@ -40,7 +40,7 @@ Nuestro equipo de expertos en Data Science se especializa en convertir los datos
 -Optimización de Procesos: Identificamos cuellos de botella y áreas de mejora para hacer su operación más eficiente y rentable.  
 -Capacitación y Soporte: No solo entregamos informes, también capacitamos a su equipo para tomar decisiones basadas en datos.  
 
-## `Tecnologías utilizadas`:  :white_circle:
+## `Tecnologías utilizadas`:
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
@@ -70,7 +70,7 @@ Nuestro equipo de expertos en Data Science se especializa en convertir los datos
 ![Pyspark](https://img.shields.io/badge/Pyspark-black?style=flat&logo=apache%20spark)
 <br><br>
 
-## `Análisis del movimiento de los taxis en Nueva York:`:  :white_circle:
+## `Análisis del movimiento de los taxis en Nueva York:`: 
 
 Este proyecto ofrece un análisis cuantitativo y cualitativo de los movimientos diarios de taxis en la ciudad de Nueva York y su relación con distintas variables como el clima, la contaminacion o el horario. Este análisis podría proporcionar un marco de referencia útil para entender el comportamiento de los taxis en una gran ciudad.
 
@@ -93,7 +93,7 @@ La misión es evaluar exhaustivamente los datos relacionados con la operación d
 
 <br><br>
 
-## `Un poco de historia de los Taxis en NYC`:  :white_circle:
+## `Un poco de historia de los Taxis en NYC`:
 
 La ciudad de Nueva York es un lugar muy popular. Más de 65 millones de personas visitan Nueva York al año y la mayoría de esos visitantes tienden a explorar (y quedarse) Manhattan.
 
@@ -122,38 +122,41 @@ La tarifa con taxímetro de un taxi verde en Nueva York es la misma que la tarif
 
 ![](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg)
 
-<br><br>
+## Desarrollo del proyecto 
 
-## `KPI´S`:  :white_circle:
+Se realizo el estudio de los datos proporcionado por la empresa Taxis de Nueva York por nuestros departamento de Data. 
 
-A través del análisis de KPIs fundamentales, hemos evaluado si la inversión en esta tecnología representa una verdadera contribución a la reducción de la contaminación ambiental.
+[*Local*](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local)
 
-## KPI nro 1 ##
-En primer lugar, el KPI 1, relativo a las emisiones de CO2 por milla recorrida, nos ofrece resultados altamente satisfactorios. La meta establecida era reducir las emisiones en un 30%, y con gran satisfacción podemos informar que se logró una reducción del 100%. Esto significa que los taxis eléctricos están generando un 30% menos de CO2 que los taxis tradicionales por cada milla recorrida, lo que representa un avance significativo en la lucha contra la contaminación atmosférica.
+El departamento de data engineer:
 
-## KPI nro 2 ##
-En cuanto al KPI 2, que mide la reducción anual de emisiones, si bien no se alcanzó la meta del 15% establecida para el período 2022-2023, sí se logró una reducción considerable del 12%. Esta desviación de la meta nos impulsa a realizar una investigación profunda para identificar las causas subyacentes y desarrollar estrategias efectivas para optimizar el rendimiento en el futuro. No obstante, cabe destacar que la reducción del 12% sigue siendo un resultado positivo que demuestra el potencial de los taxis eléctricos para disminuir el impacto ambiental del sector transporte.
+1. **Análisis de Datos (ETL y EDA) en Local:**
+Se realizó un exhaustivo análisis exploratorio de datos (EDA) y transformación de datos (ETL) en un entorno local. Esto incluyó la exploración de datasets para seleccionar columnas relevantes y definir tipos de datos, garantizando una preparación precisa para el análisis posterior. Además, se establecieron objetivos claros del proyecto antes de iniciar este proceso, asegurando una dirección clara en la exploración de datos.
 
-## KPI nro 3 ##
-En lo que respecta al KPI 3, que evalúa el impacto ambiental total en un período de 6 años, los resultados son mixtos. La meta era reducir las emisiones en un 15% durante este período, sin embargo, solo se logró una reducción del 7%. Si bien no se superó la meta inicial, este resultado evidencia un avance positivo en la dirección correcta.
+2. **Web Scraping para Obtener Datos:**
+Se aplicó web scraping en la página de la Comisión de Taxis y Limusinas de Nueva York para obtener enlaces de descarga de conjuntos de datos de viajes en taxi. Esta técnica permitió recopilar datos relevantes para el proyecto, como los conjuntos de datos correspondientes al año 2023 y enero de 2024. También se realizó transformación de datos (ETL) y análisis exploratorio de datos (EDA) en el entorno local, facilitando la comprensión y manipulación de los datos.
 
-## En definitiva, los tres KPIs ambientales nos permiten concluir: ## 
-Que los taxis eléctricos están teniendo un impacto positivo en el medio ambiente. La reducción de las emisiones de CO2 por milla recorrida, la disminución anual de emisiones y el impacto ambiental total positivo, aunque no alcance la meta esperada, confirman que la inversión en taxis eléctricos es una decisión acertada que contribuye a la mitigación del cambio climático y la mejora de la calidad del aire.
+El departamento de data analyst:
 
-<br><br>
-## `Preguntas claves`:  :white_circle:
+3. **Creación de Dashboard Power BI:**
+Se desarrolló un dashboard en Power BI para visualizar y analizar los datos recopilados y procesados localmente. Este dashboard proporciona una vista clara de los KPIs fundamentales, como las emisiones de CO2 por milla recorrida y la reducción anual de emisiones. La visualización de datos a través de Power BI facilita la interpretación de resultados y la toma de decisiones informadas.
 
-## ¿Cómo se comparan las emisiones de CO2 de los taxis eléctricos con las de otros tipos de transporte? ##
+El departamento de data scientist:
 
-Los taxis eléctricos presentan emisiones de CO2 significativamente más bajas en comparación con los taxis tradicionales. Un taxi eléctrico emite un promedio de 0 gramos de CO2 por milla, mientras que un taxi tradicional emite un promedio de 150 gramos de CO2 por milla. Esta diferencia sustancial posiciona a los taxis eléctricos como una alternativa más ecoamigable dentro del sector transporte.
+4. **Modelo de Machine Learning (RandomForest Regressor):**
+Se seleccionó el modelo RandomForest Regressor para predecir la demanda de taxis en diferentes distritos de Nueva York. Este modelo fue elegido por su capacidad para manejar relaciones no lineales, regularización incorporada mediante GridSearchCV, manejo eficiente de datos faltantes y escalabilidad adecuada para conjuntos de datos de tamaño moderado. Se detalló la fórmula matemática y la lógica de uso del modelo, así como el proceso de entrenamiento, predicción, evaluación y ajuste fino mediante GridSearchCV. Además, se crearon funciones para el despliegue del modelo tanto en archivos locales como en la plataforma de AWS.
 
-## ¿Qué tan accesibles son los taxis eléctricos para los consumidores? ##
+[*Nube*](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/1-Nube)
 
-En los últimos años, el costo de los taxis eléctricos ha experimentado una reducción considerable, haciéndolos más accesibles para los consumidores. El precio promedio de un nuevo taxi eléctrico en los Estados Unidos ronda los $35,000, y además, existen diversos incentivos gubernamentales que facilitan la adquisición de estos vehículos. 
+En este proyecto, se emplearon servicios de Amazon Web Services (AWS) para establecer un Data Warehouse dedicado al almacenamiento y procesamiento de datos de viajes en taxi en Nueva York. Se utilizó AWS Lambda para realizar web scraping en la página de la Comisión de Taxis y Limusinas, extrayendo datos de viajes realizados en 2023 y almacenándolos en un bucket de AWS S3. Se programó la ejecución de la función Lambda mensualmente mediante AWS EventBridge.
 
-## ¿Qué infraestructura se necesita para apoyar la adopción generalizada de taxis eléctricos? ##
+Posteriormente, se utilizó AWS Glue para automatizar la normalización de datos, programando la ejecución de esta tarea también mensualmente con AWS EventBridge. Se implementó otra función Lambda para renombrar los archivos resultantes y almacenarlos en un bucket específico. La validación de datos se realizó con un desencadenador de SNS de AWS, enviando notificaciones por correo electrónico al administrador de la cuenta.
 
-Para fomentar la adopción masiva de taxis eléctricos, es fundamental desarrollar una infraestructura adecuada que incluya estaciones de carga públicas. Afortunadamente, la infraestructura de carga se encuentra en constante expansión.
+Una vez en el bucket del Data Warehouse, se ejecutaron consultas SQL en AWS Athena para obtener información de los datos almacenados. La actualización continua de datos se garantizó mediante una función Lambda que tomaba nuevos registros de viajes y los almacenaba en el bucket del Data Warehouse.
+
+Para visualizar los datos, se empleó Power BI, conectándolo a AWS Athena con el conector certificado Simba Athena para crear paneles interactivos con visualizaciones en tiempo real.
+
+Además, se utilizó AWS SageMaker para entrenar modelos de Machine Learning, aprovechando su capacidad para desarrollar modelos personalizados y llevarlos a producción de manera eficiente. SageMaker permitió trabajar con una amplia gama de algoritmos para abordar diversas necesidades de análisis y predicción.
 
 <br><br>
 ## `En CONCLUSIÓN, este estudio nos permite afirmar que`:  :white_circle:

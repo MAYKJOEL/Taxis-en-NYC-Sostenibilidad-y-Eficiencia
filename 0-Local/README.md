@@ -20,6 +20,46 @@
 
 *Una vez que hemos normalizado y preparado todos los archivos, hemos llevado a cabo un segundo análisis exploratorio de datos para mejorar la claridad de la visualización y permitir un análisis más exhaustivo. El código necesario para este proceso se encuentra detallado en el notebook adjunto.*
 
+#### *Dashboard PowerBi*
+
+
+**KPI´S**:  :white_circle:
+
+*A través del análisis de KPIs fundamentales, hemos evaluado si la inversión en esta tecnología representa una verdadera contribución a la reducción de la contaminación ambiental.*
+
+**KPI nro 1**
+*En primer lugar, el KPI 1, relativo a las emisiones de CO2 por milla recorrida, nos ofrece resultados altamente satisfactorios. La meta establecida era reducir las emisiones en un 30%, y con gran satisfacción podemos informar que se logró una reducción del 100%. Esto significa que los taxis eléctricos están generando un 30% menos de CO2 que los taxis tradicionales por cada milla recorrida, lo que representa un avance significativo en la lucha contra la contaminación atmosférica.*
+
+**KPI nro 2**
+*En cuanto al KPI 2, que mide la reducción anual de emisiones, si bien no se alcanzó la meta del 15% establecida para el período 2022-2023, sí se logró una reducción considerable del 12%. Esta desviación de la meta nos impulsa a realizar una investigación profunda para identificar las causas subyacentes y desarrollar estrategias efectivas para optimizar el rendimiento en el futuro. No obstante, cabe destacar que la reducción del 12% sigue siendo un resultado positivo que demuestra el potencial de los taxis eléctricos para disminuir el impacto ambiental del sector transporte.*
+
+**KPI nro 3**
+*En lo que respecta al KPI 3, que evalúa el impacto ambiental total en un período de 6 años, los resultados son mixtos. La meta era reducir las emisiones en un 15% durante este período, sin embargo, solo se logró una reducción del 7%. Si bien no se superó la meta inicial, este resultado evidencia un avance positivo en la dirección correcta.*
+
+**En definitiva, los tres KPIs ambientales nos permiten concluir:**
+*Que los taxis eléctricos están teniendo un impacto positivo en el medio ambiente. La reducción de las emisiones de CO2 por milla recorrida, la disminución anual de emisiones y el impacto ambiental total positivo, aunque no alcance la meta esperada, confirman que la inversión en taxis eléctricos es una decisión acertada que contribuye a la mitigación del cambio climático y la mejora de la calidad del aire.*
+
+<br><br>
+
+**Preguntas claves**:  :white_circle:
+
+**¿Cómo se comparan las emisiones de CO2 de los taxis eléctricos con las de otros tipos de transporte?**
+
+*Los taxis eléctricos presentan emisiones de CO2 significativamente más bajas en comparación con los taxis tradicionales. Un taxi eléctrico emite un promedio de 0 gramos de CO2 por milla, mientras que un taxi tradicional emite un promedio de 150 gramos de CO2 por milla. Esta diferencia sustancial posiciona a los taxis eléctricos como una alternativa más ecoamigable dentro del sector transporte.*
+
+**¿Qué tan accesibles son los taxis eléctricos para los consumidores?**
+
+*En los últimos años, el costo de los taxis eléctricos ha experimentado una reducción considerable, haciéndolos más accesibles para los consumidores. El precio promedio de un nuevo taxi eléctrico en los Estados Unidos ronda los $35,000, y además, existen diversos incentivos gubernamentales que facilitan la adquisición de estos vehículos.* 
+
+**¿Qué infraestructura se necesita para apoyar la adopción generalizada de taxis eléctricos?**
+
+*Para fomentar la adopción masiva de taxis eléctricos, es fundamental desarrollar una infraestructura adecuada que incluya estaciones de carga públicas. Afortunadamente, la infraestructura de carga se encuentra en constante expansión.*
+
+<br><br>
+
+**En CONCLUSIÓN, este estudio nos permite afirmar que**:  :white_circle:
+*los taxis eléctricos representan una alternativa viable y sostenible para el servicio de taxi, contribuyendo de manera significativa a la reducción de la contaminación ambiental y promoviendo un futuro más verde. La inversión en esta tecnología no solo beneficia al medio ambiente, sino que también abre nuevas oportunidades para el desarrollo económico y la creación de empleos.*
+
 #### *Eleccion del Modelo de Machine Learning*
 
 
