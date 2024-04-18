@@ -9,7 +9,7 @@
 
 #### *Extraccion, Transformacion y Carga (ETL) y Análisis Exploracion de datos (EDA)*
 
-*Luego de establecer los objetivos concretos del proyecto, se realizó una exhaustiva exploración a nivel local para identificar la plataforma en la nube más adecuada para la implementación posterior. Esta etapa inicial fue fundamental para analizar las diversas opciones disponibles y evaluar sus capacidades en relación con los requisitos del proyecto. Es crucial destacar que durante este proceso se llevó a cabo el Análisis Exploratorio de Datos (EDA) y la Transformación de Datos (ETL) inicial en el notebook [ETL](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/1-ETL). En este notebook, se exploró el contenido de los datasets proporcionados para realizar una selección precisa de las columnas a utilizar y definir el tipo de datos de las mismas, con el objetivo de evitar sesgos en el análisis posterior.*
+*Luego de establecer los objetivos concretos del proyecto, se realizó una exhaustiva exploración a nivel local para identificar la plataforma en la nube más adecuada para la implementación posterior. Esta etapa inicial fue fundamental para analizar las diversas opciones disponibles y evaluar sus capacidades en relación con los requisitos del proyecto. Es crucial destacar que durante este proceso se llevó a cabo el Análisis Exploratorio de Datos [notebook EDA](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/0-Local/2-EDA/EDA.ipynb) y la Transformación de Datos (ETL) inicial en el [notebook ETL](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/1-ETL). En este notebook, se exploró el contenido de los datasets proporcionados para realizar una selección precisa de las columnas a utilizar y definir el tipo de datos de las mismas, con el objetivo de evitar sesgos en el análisis posterior.*
 
 
 #### *Web Scraping*
@@ -75,7 +75,7 @@ Modelo: RandomForest Regressor
 *Con el modelo entrenado y los datasets normalizados, se han creado funciones para el despliegue de los mismos, trabajando tanto con archivos locales (Notebook Local Endpoints) como en la plataforma de AWS (Notebook AWS Endpoints). El despliegue se realizó utilizando la libreria fastAPI y el servidor Render* 
 
 
-#### *Entrenamiento de Modelo en AWS SegeMaker*
+#### *Entrenamiento de Modelo en AWS SageMaker*
 
 *Para el entrenamiento de nuestros modelos de Machine Learning, empleamos AWS Sagemaker, un servicio completamente administrado que agiliza la creación, entrenamiento e implementación de modelos de Machine Learning a cualquier escala. Con Sagemaker, podemos desarrollar modelos personalizados utilizando una amplia gama de algoritmos de aprendizaje, y llevarlos a producción en solo unos pocos clics. Esto incluye algoritmos para tareas como clasificación, regresión, agrupación, detección de anomalías, recomendación y aprendizaje profundo, proporcionándonos flexibilidad y potencia para abordar diversas necesidades de análisis y predicción.*
 
