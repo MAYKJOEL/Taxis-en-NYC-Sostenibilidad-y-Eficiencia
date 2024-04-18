@@ -12,7 +12,9 @@
 <h2 align=center> By DATAMIND</h2>
 
 <h2 align=center> 
-![Página Web DataMind](https://datamind4.mydurable.com?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDgxOTQuNTgzOnByZXZpZXc=) 
+  
+![Página Web DataMind](https://datamind4.mydurable.com?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDgxOTQuNTgzOnByZXZpZXc=)
+  
 </h2>
 <h2 align=center> VIDEO HERE==> [Link](https:)</h2>
 
