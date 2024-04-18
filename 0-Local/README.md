@@ -42,13 +42,6 @@ Modelo: RandomForest Regressor
 *Fórmula Matemática del RandomForest Regressor:*
 *El modelo RandomForest Regressor realiza predicciones mediante la combinación de las predicciones de múltiples árboles de decisión, tomando el promedio de las predicciones individuales. La fórmula general se expresa como:*
 
-*\[ \hat{y}_i = \frac{1}{n_{estimators}} \sum_{k=1}^{n_{estimators}} f_k(\mathbf{x}_i) \]*
-
-*Donde:*
-*- \( \hat{y}_i \) es la predicción para la observación \(i\).*
-*- \( n_{estimators} \) es el número total de árboles en el ensamble.*
-*- \( f_k \) es la predicción del árbol \(k\).*
-
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Captura%20de%20pantalla%20(108).png)
 
 *Lógica de Uso:*
