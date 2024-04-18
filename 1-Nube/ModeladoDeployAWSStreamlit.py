@@ -43,8 +43,8 @@ def predict(data):
         st.error(f"Error: {e}")
 
 # Configuración de la interfaz de usuario con Streamlit
-st.title('Predicción de Taxi')
-st.write('Este es un formulario para predecir el número de taxis.')
+st.title('Predicción de demanda de Taxis')
+st.write('Calcula las probabilidades de conseguir pasajeros')
 
 # Recolección de datos de entrada del usuario
 dia_nombre = st.selectbox("Selecciona un día de la semana:", options=list(dias_semana.keys()))
@@ -69,4 +69,5 @@ data = {
 
 if st.button('Predecir'):
     prediction = predict(data)
-    st.success(f'La predicción es: {prediction}')
+    prediction = round(prediction[0], 2)
+    st.success(f'La predicción es de un {prediction}%')
