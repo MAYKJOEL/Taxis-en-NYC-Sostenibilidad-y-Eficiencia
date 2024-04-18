@@ -21,7 +21,7 @@
 
 * **`Juan Rabuffetti` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
-* **`Juan Sebastin Maldonado ` _(Data Analyst)_**  <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+* **`Juan Sebastian Maldonado ` _(Data Analyst)_**  <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
 * **`Maria Eva Bichi` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
