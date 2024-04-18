@@ -108,7 +108,7 @@ Según la Comisión de Transporte y Limusinas (TLC) de la Ciudad de Nueva York: 
 La mayor diferencia entre los taxis amarillos y verdes en la ciudad de Nueva York es el punto de partida del viaje. Piénselo de esta manera: los taxis amarillos no tienen restricciones, pueden recoger y dejar al pasajero donde quiera (siempre que sea un lugar seguro, por supuesto). Los taxis verdes, por el contrario, tienen algunas reglas.  
 Los taxis verdes sólo pueden recoger pasajeros en Harlem (al sur de West 110th St y East 96th St), Queens, el Bronx y Brooklyn. Pueden dejar a los pasajeros donde sea necesario. Los taxis verdes pueden dejar a los pasajeros en cualquier lugar de la ciudad de Nueva York (los cinco distritos).
 
-![](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg)
+
 
 ## ¿Cómo funciona el programa Taxi Verde? ##
 Un taxi verde puede recoger pasajeros fuera de Manhattan pero no puede recoger pasajeros dentro de Manhattan. Los Boro Taxis se pueden tomar en la calle o programar con anticipación, siempre que el punto de recogida esté fuera de la zona de exclusión de Manhattan.
@@ -116,6 +116,8 @@ Un taxi verde puede recoger pasajeros fuera de Manhattan pero no puede recoger p
 Aparte del lugar de recogida y el color, todas las demás características del taxi verde de Nueva York son idénticas a las de los taxis amarillos. Los Boro Taxis están equipados con lectores de tarjetas de crédito/débito, medidores, luces de techo y cámaras.
 
 La tarifa con taxímetro de un taxi verde en Nueva York es la misma que la tarifa con taxímetro de un taxi amarillo.
+
+![](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg)
 
 <br><br>
 
