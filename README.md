@@ -11,10 +11,10 @@
 <h3 align=center> Henry's Labs</h3>
 <h2 align=center> By DATAMIND</h2>
 
-<h2 align=center> 
+
   
-![Página Web DataMind](https://datamind4.mydurable.com?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDgxOTQuNTgzOnByZXZpZXc=)
-  
+![Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
+<h2 align=center>   
 </h2>
 <h2 align=center> VIDEO HERE==> [Link](https:)</h2>
 
