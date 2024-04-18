@@ -65,7 +65,7 @@ La falta de taxis en las zonas menos visitadas parecía injusta para los residen
 
 En el verano de 2013, la ciudad de Nueva York creó un programa para mitigar una discrepancia en el servicio de taxi para las partes menos visitadas de Nueva York: Harlem, Queens, el Bronx y Brooklyn. El nuevo programa implementó taxis ecológicos en Nueva York que se conocieron oficialmente como Boro Taxis.
 
-Según la Comisión de Transporte y Limusinas (TLC) de la Ciudad de Nueva York: El objetivo del programa Boro Taxi es mejorar el acceso al transporte callejero en los cinco condados, especialmente para las personas con discapacidades y las personas que viven o pasan tiempo en áreas históricas de la ciudad de Nueva York. desatendidos por la industria del taxi amarillo.
+Según la [Comisión de Transporte y Limusinas (TLC) de la Ciudad de Nueva York:](https://www.nyc.gov/site/tlc/index.page) El objetivo del programa Boro Taxi es mejorar el acceso al transporte callejero en los cinco condados, especialmente para las personas con discapacidades y las personas que viven o pasan tiempo en áreas históricas de la ciudad de Nueva York. desatendidos por la industria del taxi amarillo.
 
  En la ciudad de Nueva York, los taxis verdes y amarillos son bastante comunes. Los taxis amarillos son icónicos y se encuentran principalmente en Manhattan, mientras que los taxis verdes, conocidos como “Boro Taxis”, operan principalmente en las áreas exteriores de Manhattan, como Brooklyn, Queens, el Bronx y Staten Island. Ambos tipos de taxis son parte del esfuerzo por ofrecer opciones de transporte sostenibles y reducir la contaminación del aire y sonora en la ciudad. 🚖🌿
 
@@ -83,34 +83,32 @@ Aparte del lugar de recogida y el color, todas las demás características del t
 La tarifa con taxímetro de un taxi verde en Nueva York es la misma que la tarifa con taxímetro de un taxi amarillo.
 
 <p align="center">
-  <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg" alt="DATAMIND" width="500" height="300" >
+  <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg" alt="DATAMIND" width="750" height="450" >
 </p>
 
 ## Desarrollo del proyecto 
 
-Se realizo el estudio de los datos proporcionado por la empresa Taxis de Nueva York por nuestros departamento de Data. 
-
-[*Local*](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local)
+### [Desarrollo Local](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local)
 
 El departamento de data engineer:
 
-1. **Análisis de Datos (ETL y EDA) en Local:**
+1. [**Análisis de Datos (ETL y EDA) en Local:**](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/1-ETL)
 Se realizó un exhaustivo análisis exploratorio de datos (EDA) y transformación de datos (ETL) en un entorno local. Esto incluyó la exploración de datasets para seleccionar columnas relevantes y definir tipos de datos, garantizando una preparación precisa para el análisis posterior. Además, se establecieron objetivos claros del proyecto antes de iniciar este proceso, asegurando una dirección clara en la exploración de datos.
 
-2. **Web Scraping para Obtener Datos:**
+2. [**Web Scraping para Obtener Datos:**](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/3-WebScraping)
 Se aplicó web scraping en la página de la Comisión de Taxis y Limusinas de Nueva York para obtener enlaces de descarga de conjuntos de datos de viajes en taxi. Esta técnica permitió recopilar datos relevantes para el proyecto, como los conjuntos de datos correspondientes al año 2023 y enero de 2024. También se realizó transformación de datos (ETL) y análisis exploratorio de datos (EDA) en el entorno local, facilitando la comprensión y manipulación de los datos.
 
 El departamento de data analyst:
 
-3. **Creación de Dashboard Power BI:**
+3. [**Creación de Dashboard Power BI:**](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/4-PowerBI)
 Se desarrolló un dashboard en Power BI para visualizar y analizar los datos recopilados y procesados localmente. Este dashboard proporciona una vista clara de los KPIs fundamentales, como las emisiones de CO2 por milla recorrida y la reducción anual de emisiones. La visualización de datos a través de Power BI facilita la interpretación de resultados y la toma de decisiones informadas.
 
 El departamento de data scientist:
 
-4. **Modelo de Machine Learning (RandomForest Regressor):**
+4. [**Modelo de Machine Learning (RandomForest Regressor):**](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/5-ModeloML)
 Se seleccionó el modelo RandomForest Regressor para predecir la demanda de taxis en diferentes distritos de Nueva York. Este modelo fue elegido por su capacidad para manejar relaciones no lineales, regularización incorporada mediante GridSearchCV, manejo eficiente de datos faltantes y escalabilidad adecuada para conjuntos de datos de tamaño moderado. Se detalló la fórmula matemática y la lógica de uso del modelo, así como el proceso de entrenamiento, predicción, evaluación y ajuste fino mediante GridSearchCV. Además, se crearon funciones para el despliegue del modelo tanto en archivos locales como en la plataforma de AWS.
 
-[*Nube*](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/1-Nube)
+### [Desarrollo Nube](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/1-Nube)
 
 En este proyecto, se emplearon servicios de Amazon Web Services (AWS) para establecer un Data Warehouse dedicado al almacenamiento y procesamiento de datos de viajes en taxi en Nueva York. Se utilizó AWS Lambda para realizar web scraping en la página de la Comisión de Taxis y Limusinas, extrayendo datos de viajes realizados en 2023 y almacenándolos en un bucket de AWS S3. Se programó la ejecución de la función Lambda mensualmente mediante AWS EventBridge.
 
@@ -122,11 +120,16 @@ Para visualizar los datos, se empleó Power BI, conectándolo a AWS Athena con e
 
 Además, se utilizó AWS SageMaker para entrenar modelos de Machine Learning, aprovechando su capacidad para desarrollar modelos personalizados y llevarlos a producción de manera eficiente. SageMaker permitió trabajar con una amplia gama de algoritmos para abordar diversas necesidades de análisis y predicción.
 
-<br>
-## `En CONCLUSIÓN, este estudio nos permite afirmar que`:  :white_circle:
-##  los taxis eléctricos representan una alternativa viable y sostenible para el servicio de taxi, contribuyendo de manera significativa a la reducción de la contaminación ambiental y promoviendo un futuro más verde. La inversión en esta tecnología no solo beneficia al medio ambiente, sino que también abre nuevas oportunidades para el desarrollo económico y la creación de empleos.##
 
-## `Tecnologías utilizadas`:
+### CONCLUSIÓN <br>
+ - Los taxis eléctricos representan una alternativa viable y sostenible para el servicio de taxi, contribuyendo de manera significativa a la reducción de la contaminación ambiental y promoviendo un futuro más verde. 
+ - La inversión en esta tecnología no solo beneficia al medio ambiente, sino que también abre nuevas oportunidades para el desarrollo económico y la creación de empleos. <br><br>
+
+### Adicionales del proyecto:
+
+[**Prediccion de demanda de pasajeros**](http://18.220.201.35:8501/)<br>
+[**Diccionario de Datasets usados**](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/Documentos/Diccionario%20Proyecto%20Taxis.pdf)
+## Tecnologías utilizadas:
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
@@ -169,4 +172,4 @@ Además, se utilizó AWS SageMaker para entrenar modelos de Machine Learning, ap
 * **`Mayk Quispe` _(Data Scientist)_**   <a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
 <br><br>
-GRACIAS POR LEER HASTA EL FINAL, ESTAMOS DISPONIBLES PARA CUALQUIER CONSULTA : [link]! (http://)
+GRACIAS POR LEER HASTA EL FINAL, ESTAMOS DISPONIBLES PARA CUALQUIER CONSULTA : [Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
