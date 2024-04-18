@@ -9,7 +9,7 @@
 
 #### *Extraccion, Transformacion y Carga (ETL) y Análisis Exploracion de datos (EDA)*
 
-*Luego de establecer los objetivos concretos del proyecto, se realizó una exhaustiva exploración a nivel local para identificar la plataforma en la nube más adecuada para la implementación posterior. Esta etapa inicial fue fundamental para analizar las diversas opciones disponibles y evaluar sus capacidades en relación con los requisitos del proyecto. Es crucial destacar que durante este proceso se llevó a cabo el Análisis Exploratorio de Datos (EDA) y la Transformación de Datos (ETL) inicial en el notebook ETL. En este notebook, se exploró el contenido de los datasets proporcionados para realizar una selección precisa de las columnas a utilizar y definir el tipo de datos de las mismas, con el objetivo de evitar sesgos en el análisis posterior.*
+*Luego de establecer los objetivos concretos del proyecto, se realizó una exhaustiva exploración a nivel local para identificar la plataforma en la nube más adecuada para la implementación posterior. Esta etapa inicial fue fundamental para analizar las diversas opciones disponibles y evaluar sus capacidades en relación con los requisitos del proyecto. Es crucial destacar que durante este proceso se llevó a cabo el Análisis Exploratorio de Datos (EDA) y la Transformación de Datos (ETL) inicial en el notebook [ETL](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/1-ETL). En este notebook, se exploró el contenido de los datasets proporcionados para realizar una selección precisa de las columnas a utilizar y definir el tipo de datos de las mismas, con el objetivo de evitar sesgos en el análisis posterior.*
 
 
 #### *Web Scraping*
