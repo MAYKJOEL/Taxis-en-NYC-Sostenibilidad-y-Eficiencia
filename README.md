@@ -83,10 +83,8 @@ Aparte del lugar de recogida y el color, todas las demás características del t
 La tarifa con taxímetro de un taxi verde en Nueva York es la misma que la tarifa con taxímetro de un taxi amarillo.
 
 <p align="center">
-  <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg" alt="DATAMIND" width="250" height="150" >
+  <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg" alt="DATAMIND" width="500" height="300" >
 </p>
-
-![jojojo](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg)
 
 ## Desarrollo del proyecto 
 
