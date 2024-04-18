@@ -17,7 +17,6 @@
 [Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
 </h2>
 <h2 align=center> VIDEO HERE==> [Link](https:)</h2>
-https://app.powerbi.com/reportEmbed?reportId=6a18c568-5112-4424-86f2-e71ab966f115&autoAuth=true&ctid=376d447d-f210-41ec-9810-83d2cf56497e
 
 ## `Equipo`:  :white_circle:
 
