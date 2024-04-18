@@ -13,7 +13,7 @@
 
 
   
-![Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
+[Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
 <h2 align=center>   
 </h2>
 <h2 align=center> VIDEO HERE==> [Link](https:)</h2>
