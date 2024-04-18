@@ -17,62 +17,30 @@
 [Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
 </h2>
 
+<br>
 
-## `Equipo`:
+## `¿Quienes somos?`
 
-* **`Natalia Paez` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-* **`Juan Rabuffetti` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-* **`Juan Sebastian Maldonado ` _(Data Analyst)_**  <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-* **`Maria Eva Bichi` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-* **`Mayk Quispe` _(Data Scientist)_**   <a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-<br><br>
-## `¿Quienes somos?`:  :white_circle:
+DataMind es una firma de consultoría de TI con sede en Nueva York, EE. UU., dedicada a brindar soluciones de primer nivel a empresas que buscan optimizar sus estrategias tecnológicas. Con un equipo de profesionales experimentados, ofrecemos servicios personalizados para satisfacer las necesidades únicas de cada cliente, garantizando la eficiencia y el éxito en cada proyecto que emprendemos.
 
 Nuestro equipo de expertos en Data Science se especializa en convertir los datos crudos en insights accionables que impulsan la toma de decisiones inteligentes y la optimización de procesos.
 
--Análisis de Datos Avanzado: Utilizamos técnicas estadísticas y de machine learning para descubrir tendencias y patrones que pasan desapercibidos.  
--Visualización de Datos: Transformamos números complejos en gráficos claros y comprensibles, facilitando la interpretación y el análisis.  
--Optimización de Procesos: Identificamos cuellos de botella y áreas de mejora para hacer su operación más eficiente y rentable.  
--Capacitación y Soporte: No solo entregamos informes, también capacitamos a su equipo para tomar decisiones basadas en datos.  
+En el corazón de nuestro enfoque está el análisis de datos avanzado, donde desentrañamos los secretos ocultos en los números, utilizando técnicas estadísticas y de machine learning para revelar tendencias y patrones que de otro modo pasarían desapercibidos en el tumulto de información.
 
-## `Tecnologías utilizadas`:
+Nuestra habilidad para la visualización de datos es como un artista que da vida a un lienzo en blanco. Transformamos números complejos en gráficos claros y comprensibles, tejiendo historias visuales que facilitan la interpretación y el análisis de la información.
 
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-black?style=flat&logo=Numpy)
-![Pyarrow](https://img.shields.io/badge/Pyarrow-black?style=flat&logo=python&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-black?style=flat&logo=Scikit-Learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
-![PyAthena](https://img.shields.io/badge/PyAthena-black?style=flat&logo=python&logoColor=purple)
-![Boto3](https://img.shields.io/badge/Boto3-black?style=flat&logo=AWS%20Organizations)
-![S3FS](https://img.shields.io/badge/S3FS-black?style=flat&logo=AMAZON%20S3&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat&logo=python&logoColor=white)
-![Pyinstaller](https://img.shields.io/badge/Pyinstaller-black?style=flat&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat&logo=coffeescript)
-![Plotly](https://img.shields.io/badge/Plotly-black?style=flat&logo=plotly)
-![Pydantic](https://img.shields.io/badge/Pydantic-black?style=flat&logo=pydantic)
-![Joblib](https://img.shields.io/badge/Joblib-black?style=flat&logo=Python)
-![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat&logo=Power%20bi)
-![Amazon S3](https://img.shields.io/badge/AWS%20S3-black?style=flat&logo=Amazon%20S3)
-![AWS Athena](https://img.shields.io/badge/AWS%20Athena-black?style=flat&logo=Amazon%20AWS&logoColor=purple)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?style=flat&logo=AWS%20lambda)
-![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-black?style=flat&logo=aws%20lambda&logoColor=%20pink)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-black?style=flat&logo=AWS%20OrganizationS&logoColor=blue)
-![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-black?style=flat&logo=AmazonAWS&logoColor=green)
-![AWS Quicksight](https://img.shields.io/badge/AWS%20Quicksight-black?style=flat&logo=AmazonAWS&logoColor=yellow)
-![Pyspark](https://img.shields.io/badge/Pyspark-black?style=flat&logo=apache%20spark)
-<br><br>
+Pero no nos detenemos ahí. Nos adentramos en la esencia misma de su operación, buscando oportunidades de mejora y eficiencia. Con nuestra especialidad en optimización de procesos, identificamos cuellos de botella y áreas de mejora, allanando el camino hacia una operación más eficiente y rentable.
 
-## `Análisis del movimiento de los taxis en Nueva York:`: 
+Y no somos meros espectadores en este viaje de descubrimiento. Nos comprometemos a capacitar y apoyar a su equipo, no solo entregando informes, sino también impartiendo conocimiento y herramientas para que puedan tomar decisiones informadas y basadas en datos, construyendo así una cultura empresarial centrada en la inteligencia y la acción. 
 
-Este proyecto ofrece un análisis cuantitativo y cualitativo de los movimientos diarios de taxis en la ciudad de Nueva York y su relación con distintas variables como el clima, la contaminacion o el horario. Este análisis podría proporcionar un marco de referencia útil para entender el comportamiento de los taxis en una gran ciudad.
+## `Nuestros proyectos realizados:`
+"DataMind se enorgullece de contar con un extenso catálogo de proyectos exitosos, respaldados por la alta satisfacción de nuestros clientes, como lo demuestran los comentarios positivos recibidos. Uno de nuestros proyectos más recientes y destacados es *TAXIS NYC: Sostenibilidad y Eficiencia*.
+
+El proyecto *TAXIS NYC: Sostenibilidad y Eficiencia* ha sido recibido con entusiasmo y ha generado resultados tangibles en términos de reducción de emisiones, optimización de costos y mejora de la experiencia del cliente. Estamos comprometidos a continuar innovando y brindando soluciones de vanguardia que impulsen el éxito de nuestros clientes y contribuyan al bienestar de la comunidad en general."
+
+## `Análisis del proyecto taxis en Nueva York:` 
+
+El proyecto de *TAXIS NYC: Sostenibilidad y Eficiencia* ofrece un análisis cuantitativo y cualitativo de los movimientos diarios de taxis en la ciudad de Nueva York y su relación con distintas variables como el clima, la contaminación o el horario. 
 
 El transporte terrestre es causante del 90% de las emisiones del sector en la región, siendo un 50% producido por transporte de pasajeros.
 
@@ -87,13 +55,7 @@ La electromovilidad ya es una realidad y existen casos de implementación de veh
 
 La misión es evaluar exhaustivamente los datos relacionados con la operación de taxis, las emisiones de CO2 y las tendencias del mercado de vehículos eléctricos. Este análisis permitirá a la empresa tomar decisiones informadas que contribuyan a la reducción de la contaminación y, al mismo tiempo, maximizar sus beneficios económicos.
 
-<br><br>
-
-## A través de la exploración de datos y el análisis de tendencias, esperamos aportar soluciones significativas que beneficien tanto a la empresa como al medioambiente. ##
-
-<br><br>
-
-## `Un poco de historia de los Taxis en NYC`:
+#### Un poco de historia de los Taxis en NYC:
 
 La ciudad de Nueva York es un lugar muy popular. Más de 65 millones de personas visitan Nueva York al año y la mayoría de esos visitantes tienden a explorar (y quedarse) Manhattan.
 
@@ -107,20 +69,24 @@ Según la Comisión de Transporte y Limusinas (TLC) de la Ciudad de Nueva York: 
 
  En la ciudad de Nueva York, los taxis verdes y amarillos son bastante comunes. Los taxis amarillos son icónicos y se encuentran principalmente en Manhattan, mientras que los taxis verdes, conocidos como “Boro Taxis”, operan principalmente en las áreas exteriores de Manhattan, como Brooklyn, Queens, el Bronx y Staten Island. Ambos tipos de taxis son parte del esfuerzo por ofrecer opciones de transporte sostenibles y reducir la contaminación del aire y sonora en la ciudad. 🚖🌿
 
-## ¿Cuál es la diferencia entre los taxis amarillos y verdes en Nueva York? ##  
+#### ¿Cuál es la diferencia entre los taxis amarillos y verdes en Nueva York? ##  
 La mayor diferencia entre los taxis amarillos y verdes en la ciudad de Nueva York es el punto de partida del viaje. Piénselo de esta manera: los taxis amarillos no tienen restricciones, pueden recoger y dejar al pasajero donde quiera (siempre que sea un lugar seguro, por supuesto). Los taxis verdes, por el contrario, tienen algunas reglas.  
 Los taxis verdes sólo pueden recoger pasajeros en Harlem (al sur de West 110th St y East 96th St), Queens, el Bronx y Brooklyn. Pueden dejar a los pasajeros donde sea necesario. Los taxis verdes pueden dejar a los pasajeros en cualquier lugar de la ciudad de Nueva York (los cinco distritos).
 
 
 
-## ¿Cómo funciona el programa Taxi Verde? ##
+#### ¿Cómo funciona el programa Taxi Verde? ##
 Un taxi verde puede recoger pasajeros fuera de Manhattan pero no puede recoger pasajeros dentro de Manhattan. Los Boro Taxis se pueden tomar en la calle o programar con anticipación, siempre que el punto de recogida esté fuera de la zona de exclusión de Manhattan.
 
 Aparte del lugar de recogida y el color, todas las demás características del taxi verde de Nueva York son idénticas a las de los taxis amarillos. Los Boro Taxis están equipados con lectores de tarjetas de crédito/débito, medidores, luces de techo y cámaras.
 
 La tarifa con taxímetro de un taxi verde en Nueva York es la misma que la tarifa con taxímetro de un taxi amarillo.
 
-![](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg)
+<p align="center">
+  <img src="https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg" alt="DATAMIND" width="250" height="150" >
+</p>
+
+![jojojo](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/mapaNYC.jpeg)
 
 ## Desarrollo del proyecto 
 
@@ -158,9 +124,51 @@ Para visualizar los datos, se empleó Power BI, conectándolo a AWS Athena con e
 
 Además, se utilizó AWS SageMaker para entrenar modelos de Machine Learning, aprovechando su capacidad para desarrollar modelos personalizados y llevarlos a producción de manera eficiente. SageMaker permitió trabajar con una amplia gama de algoritmos para abordar diversas necesidades de análisis y predicción.
 
-<br><br>
+<br>
 ## `En CONCLUSIÓN, este estudio nos permite afirmar que`:  :white_circle:
 ##  los taxis eléctricos representan una alternativa viable y sostenible para el servicio de taxi, contribuyendo de manera significativa a la reducción de la contaminación ambiental y promoviendo un futuro más verde. La inversión en esta tecnología no solo beneficia al medio ambiente, sino que también abre nuevas oportunidades para el desarrollo económico y la creación de empleos.##
+
+## `Tecnologías utilizadas`:
+
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-black?style=flat&logo=Numpy)
+![Pyarrow](https://img.shields.io/badge/Pyarrow-black?style=flat&logo=python&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-black?style=flat&logo=Scikit-Learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
+![PyAthena](https://img.shields.io/badge/PyAthena-black?style=flat&logo=python&logoColor=purple)
+![Boto3](https://img.shields.io/badge/Boto3-black?style=flat&logo=AWS%20Organizations)
+![S3FS](https://img.shields.io/badge/S3FS-black?style=flat&logo=AMAZON%20S3&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat&logo=python&logoColor=white)
+![Pyinstaller](https://img.shields.io/badge/Pyinstaller-black?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat&logo=coffeescript)
+![Plotly](https://img.shields.io/badge/Plotly-black?style=flat&logo=plotly)
+![Pydantic](https://img.shields.io/badge/Pydantic-black?style=flat&logo=pydantic)
+![Joblib](https://img.shields.io/badge/Joblib-black?style=flat&logo=Python)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat&logo=Power%20bi)
+![Amazon S3](https://img.shields.io/badge/AWS%20S3-black?style=flat&logo=Amazon%20S3)
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-black?style=flat&logo=Amazon%20AWS&logoColor=purple)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-black?style=flat&logo=AWS%20lambda)
+![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-black?style=flat&logo=aws%20lambda&logoColor=%20pink)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-black?style=flat&logo=AWS%20OrganizationS&logoColor=blue)
+![AWS Sagemaker](https://img.shields.io/badge/AWS%20Sagemaker-black?style=flat&logo=AmazonAWS&logoColor=green)
+![AWS Quicksight](https://img.shields.io/badge/AWS%20Quicksight-black?style=flat&logo=AmazonAWS&logoColor=yellow)
+![Pyspark](https://img.shields.io/badge/Pyspark-black?style=flat&logo=apache%20spark)
+<br><br>
+
+## `Equipo`:
+
+* **`Natalia Paez` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+
+* **`Juan Rabuffetti` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+
+* **`Juan Sebastian Maldonado ` _(Data Analyst)_**  <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+
+* **`Maria Eva Bichi` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+
+* **`Mayk Quispe` _(Data Scientist)_**   <a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
 <br><br>
 GRACIAS POR LEER HASTA EL FINAL, ESTAMOS DISPONIBLES PARA CUALQUIER CONSULTA : [link]! (http://)
