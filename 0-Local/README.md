@@ -14,7 +14,7 @@
 
 #### *Web Scraping*
 
-*Como siguiente paso, se procedió a aplicar web scraping en la página de la Comisión de taxis y limusinas de Nueva York para obtener los enlaces de descarga de los conjuntos de datos de viajes en taxi correspondientes al año 2023 y enero del año 2024. Tambien realizamos Transformacion de datos (ETL) y Análisis expliratorio de datos(EDA).*
+*Como siguiente paso, se procedió a aplicar web scraping en la página de la Comisión de taxis y limusinas de Nueva York para obtener los enlaces de descarga de los conjuntos de datos de viajes en taxi correspondientes al año 2023 y enero del año 2024. Tambien realizamos Transformacion de datos (ETL) y Análisis expliratorio de datos(EDA).[notebook ETL Y EDA](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/tree/main/0-Local/0-DataSets/2-DatosProporcionadosConETL)*
 
 #### *Realizamos un segundo Análisis Exploratorio de Datos (EDA)*
 
