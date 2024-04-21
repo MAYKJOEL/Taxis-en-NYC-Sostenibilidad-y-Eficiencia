@@ -62,7 +62,7 @@
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png)
 
 
-#### *Entrenamiento de Modelo en AWS SageMaker*
+### *Entrenamiento de Modelo en AWS SageMaker*
 
 *Para el entrenamiento de nuestros modelos de Machine Learning, empleamos AWS Sagemaker, un servicio completamente administrado que agiliza la creación, entrenamiento e implementación de modelos de Machine Learning a cualquier escala. Con Sagemaker, podemos desarrollar modelos personalizados utilizando una amplia gama de algoritmos de aprendizaje, y llevarlos a producción en solo unos pocos clics. Esto incluye algoritmos para tareas como clasificación, regresión, agrupación, detección de anomalías, recomendación y aprendizaje profundo, proporcionándonos flexibilidad y potencia para abordar diversas necesidades de análisis y predicción.*
 
@@ -71,7 +71,7 @@
 
 ![](https://github.com/titolup/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/1-Nube/Imagenes%20AWS/SageMaker1.jpeg)
 
-#### *Deploy del Modelo en Streamlit y FastAPI*
+### *Deploy del Modelo en Streamlit y FastAPI*
 
 *Para el deploy de nuestro modelo de Machine Learning, utilizamos AWS EC2. Amazon EC2 (Elastic Compute Cloud) es un servicio de computación en la nube que proporciona capacidad informática escalable a través de Internet. Este servidor virtual lo utilizamos tanto para el deploy tanto con Streamlit, como para nuestra API de FastAPI.*
 
@@ -83,11 +83,11 @@
 *Una vez creada la instancia y manejadas las reglas de seguridad, cargamos el modelado de nuestro bucket de S3 y el codigo tanto para Streamlit como para FastAPI.*
 *Ya cargado y corriendo nuestro código, creamos dos sesiones de tmux, para que las aplicaciones continuen ejecutandose en segundo plano*
 
-[**Prediccion de demanda de pasajeros en Streamlit**](http://18.220.201.35:8501/)
+**Prediccion de demanda de pasajeros en Streamlit**
 
 ![Deploy de Streamlit](<Imagenes AWS/deployStreamlit.PNG>)
 
-[**API de predicción de demanda de pasajeros en FastAPI**](http://18.220.201.35:8000/docs/)
+**API de predicción de demanda de pasajeros en FastAPI**
 
 ![Deploy de FastAPI](<Imagenes AWS/deployFastAPI.PNG>)
 
