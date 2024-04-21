@@ -94,9 +94,9 @@
 
 **Enlaces a los deploy:**
 
-* [**Streamlit**](http://18.220.201.35:8501/)
+* [*Streamlit*](http://18.220.201.35:8501/)
 
-* [**FastAPI**](http://18.220.201.35:8000/docs/)
+* [*FastAPI*](http://18.220.201.35:8000/docs/)
 
 
 
