@@ -127,7 +127,8 @@ Además, se utilizó AWS SageMaker para entrenar modelos de Machine Learning, ap
 
 ### Adicionales del proyecto:
 
-[**Prediccion de demanda de pasajeros**](http://18.220.201.35:8501/)<br>
+[**Prediccion de demanda de pasajeros en Streamlit**](http://18.220.201.35:8501/)<br>
+[**API de predicción de demanda de pasajeros en FastAPI**](http://18.220.201.35:8000/docs/)<br>
 [**Diccionario de Datasets usados**](https://github.com/MAYKJOEL/Taxis-en-NYC-Sostenibilidad-y-Eficiencia/blob/main/Documentos/Diccionario%20Proyecto%20Taxis.pdf)
 ## Tecnologías utilizadas:
 
