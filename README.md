@@ -16,7 +16,10 @@
 
 [Página Web DataMind](https://datamind4.mydurable.com/es?pt=NjYxOWFiMTRhZWUxM2ViMDM1ZWNhZDIyOjE3MTM0NDg5NTIuNzM4OnByZXZpZXc=)
 </h2>
+<h2 align=center> 
 
+[Presentación DataMind](https://www.youtube.com/watch?v=1I0njz6aYlE&t=1s)
+</h2>
 <br>
 
 ## `¿Quienes somos?`
